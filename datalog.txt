@@ -1,0 +1,1788 @@
+Roll: -90.33, Pitch:  66.95, Yaw: -69.94| 
+Roll: -91.03, Pitch:  66.83, Yaw: -70.26| 
+Roll: -91.23, Pitch:  66.74, Yaw: -70.02| 
+Roll: -91.01, Pitch:  66.78, Yaw: -69.30| 
+Roll: -90.89, Pitch:  66.77, Yaw: -68.64| 
+Roll: -91.26, Pitch:  66.44, Yaw: -68.46| 
+Roll: -92.31, Pitch:  65.93, Yaw: -68.87| 
+Roll: -93.27, Pitch:  65.45, Yaw: -69.68| 
+Roll: -93.98, Pitch:  65.05, Yaw: -70.65| 
+Roll: -94.57, Pitch:  64.63, Yaw: -71.61| 
+Roll: -95.11, Pitch:  64.14, Yaw: -72.49| 
+Roll: -96.07, Pitch:  63.70, Yaw: -73.73| 
+Roll: -96.98, Pitch:  63.41, Yaw: -75.17| 
+Roll: -97.49, Pitch:  63.39, Yaw: -76.83| 
+Roll: -97.25, Pitch:  63.59, Yaw: -78.23| 
+Roll: -96.29, Pitch:  63.96, Yaw: -79.10| 
+Roll: -95.00, Pitch:  64.51, Yaw: -79.87| 
+Roll: -94.04, Pitch:  65.34, Yaw: -81.28| 
+Roll: -93.10, Pitch:  66.44, Yaw: -82.81| 
+Roll: -92.45, Pitch:  67.78, Yaw: -84.77| 
+Roll: -92.27, Pitch:  69.38, Yaw: -87.33| 
+Roll: -93.27, Pitch:  71.04, Yaw: -90.54| 
+Roll: -96.42, Pitch:  72.58, Yaw: -95.11| 
+Roll: -99.53, Pitch:  73.48, Yaw: -99.42| 
+Roll:-103.30, Pitch:  74.17, Yaw:-104.50| 
+Roll:-107.09, Pitch:  74.67, Yaw:-109.73| 
+Roll:-111.11, Pitch:  75.06, Yaw:-115.37| 
+Roll:-115.64, Pitch:  75.28, Yaw:-121.55| 
+Roll:-120.55, Pitch:  75.32, Yaw:-128.06| 
+Roll:-125.11, Pitch:  75.27, Yaw:-134.14| 
+Roll:-129.05, Pitch:  75.17, Yaw:-139.64| 
+Roll:-132.65, Pitch:  74.97, Yaw:-144.82| 
+Roll:-136.10, Pitch:  74.65, Yaw:-149.83| 
+Roll:-138.79, Pitch:  74.34, Yaw:-154.06| 
+Roll:-141.05, Pitch:  74.06, Yaw:-157.75| 
+Roll:-142.98, Pitch:  73.84, Yaw:-161.05| 
+Roll:-144.46, Pitch:  73.69, Yaw:-163.98| 
+Roll:-146.00, Pitch:  73.55, Yaw:-166.98| 
+Roll:-147.47, Pitch:  73.37, Yaw:-169.98| 
+Roll:-148.77, Pitch:  73.25, Yaw:-172.85| 
+Roll:-149.80, Pitch:  73.15, Yaw:-175.49| 
+Roll:-150.85, Pitch:  73.04, Yaw:-178.24| 
+Roll:-151.68, Pitch:  72.91, Yaw: 179.07| 
+Roll:-152.56, Pitch:  72.73, Yaw: 176.19| 
+Roll:-153.54, Pitch:  72.48, Yaw: 173.10| 
+Roll:-154.65, Pitch:  72.21, Yaw: 169.81| 
+Roll:-155.78, Pitch:  71.95, Yaw: 166.37| 
+Roll:-156.75, Pitch:  71.75, Yaw: 162.86| 
+Roll:-157.58, Pitch:  71.60, Yaw: 159.38| 
+Roll:-158.21, Pitch:  71.51, Yaw: 156.01| 
+Roll:-158.70, Pitch:  71.45, Yaw: 152.66| 
+Roll:-159.11, Pitch:  71.45, Yaw: 149.31| 
+Roll:-159.50, Pitch:  71.49, Yaw: 145.94| 
+Roll:-159.80, Pitch:  71.57, Yaw: 142.59| 
+Roll:-159.99, Pitch:  71.68, Yaw: 139.30| 
+Roll:-160.10, Pitch:  71.80, Yaw: 136.13| 
+Roll:-160.17, Pitch:  71.88, Yaw: 133.02| 
+Roll:-160.25, Pitch:  71.90, Yaw: 129.97| 
+Roll:-160.37, Pitch:  71.90, Yaw: 126.93| 
+Roll:-160.68, Pitch:  71.94, Yaw: 123.86| 
+Roll:-161.07, Pitch:  72.01, Yaw: 120.87| 
+Roll:-161.65, Pitch:  72.05, Yaw: 117.82| 
+Roll:-162.47, Pitch:  72.13, Yaw: 114.70| 
+Roll:-163.31, Pitch:  72.24, Yaw: 111.73| 
+Roll:-164.10, Pitch:  72.36, Yaw: 108.98| 
+Roll:-164.87, Pitch:  72.45, Yaw: 106.38| 
+Roll:-165.55, Pitch:  72.48, Yaw: 103.97| 
+Roll:-166.27, Pitch:  72.45, Yaw: 101.58| 
+Roll:-166.97, Pitch:  72.41, Yaw:  99.30| 
+Roll:-167.61, Pitch:  72.33, Yaw:  97.16| 
+Roll:-168.28, Pitch:  72.22, Yaw:  95.03| 
+Roll:-168.87, Pitch:  72.05, Yaw:  93.07| 
+Roll:-169.42, Pitch:  71.86, Yaw:  91.18| 
+Roll:-170.02, Pitch:  71.66, Yaw:  89.29| 
+Roll:-170.53, Pitch:  71.47, Yaw:  87.53| 
+Roll:-171.11, Pitch:  71.30, Yaw:  85.78| 
+Roll:-171.74, Pitch:  71.15, Yaw:  84.04| 
+Roll:-172.35, Pitch:  71.02, Yaw:  82.36| 
+Roll:-172.87, Pitch:  70.91, Yaw:  80.80| 
+Roll:-173.36, Pitch:  70.83, Yaw:  79.29| 
+Roll:-173.79, Pitch:  70.75, Yaw:  77.86| 
+Roll:-174.05, Pitch:  70.69, Yaw:  76.56| 
+Roll:-174.23, Pitch:  70.59, Yaw:  75.34| 
+Roll:-174.46, Pitch:  70.45, Yaw:  74.04| 
+Roll:-174.77, Pitch:  70.27, Yaw:  72.65| 
+Roll:-175.18, Pitch:  70.06, Yaw:  71.13| 
+Roll:-175.48, Pitch:  69.83, Yaw:  69.73| 
+Roll:-175.73, Pitch:  69.63, Yaw:  68.44| 
+Roll:-175.94, Pitch:  69.45, Yaw:  67.24| 
+Roll:-176.15, Pitch:  69.26, Yaw:  66.07| 
+Roll:-176.44, Pitch:  69.09, Yaw:  64.88| 
+Roll:-176.75, Pitch:  68.94, Yaw:  63.76| 
+Roll:-177.11, Pitch:  68.78, Yaw:  62.61| 
+Roll:-177.50, Pitch:  68.65, Yaw:  61.45| 
+Roll:-177.87, Pitch:  68.54, Yaw:  60.41| 
+Roll:-178.20, Pitch:  68.47, Yaw:  59.49| 
+Roll:-178.53, Pitch:  68.45, Yaw:  58.71| 
+Roll:-178.92, Pitch:  68.47, Yaw:  58.04| 
+Roll:-179.32, Pitch:  68.59, Yaw:  57.58| 
+Roll:-179.68, Pitch:  68.80, Yaw:  57.37| 
+Roll: 179.96, Pitch:  69.09, Yaw:  57.34| 
+Roll: 179.61, Pitch:  69.43, Yaw:  57.49| 
+Roll: 179.25, Pitch:  69.79, Yaw:  57.74| 
+Roll: 178.90, Pitch:  70.14, Yaw:  58.11| 
+Roll: 178.52, Pitch:  70.45, Yaw:  58.58| 
+Roll: 178.09, Pitch:  70.74, Yaw:  59.14| 
+Roll: 177.67, Pitch:  71.08, Yaw:  59.83| 
+Roll: 177.33, Pitch:  71.46, Yaw:  60.70| 
+Roll: 177.06, Pitch:  71.84, Yaw:  61.71| 
+Roll: 176.86, Pitch:  72.21, Yaw:  62.85| 
+Roll: 176.66, Pitch:  72.59, Yaw:  64.10| 
+Roll: 176.54, Pitch:  73.00, Yaw:  65.48| 
+Roll: 176.47, Pitch:  73.44, Yaw:  67.00| 
+Roll: 176.46, Pitch:  73.97, Yaw:  68.67| 
+Roll: 176.58, Pitch:  74.51, Yaw:  70.44| 
+Roll: 176.67, Pitch:  75.01, Yaw:  72.15| 
+Roll: 176.62, Pitch:  75.54, Yaw:  73.82| 
+Roll: 176.56, Pitch:  76.17, Yaw:  75.62| 
+Roll: 176.65, Pitch:  76.80, Yaw:  77.59| 
+Roll: 176.85, Pitch:  77.38, Yaw:  79.50| 
+Roll: 176.93, Pitch:  77.94, Yaw:  81.19| 
+Roll: 176.94, Pitch:  78.48, Yaw:  82.86| 
+Roll: 177.11, Pitch:  79.01, Yaw:  84.77| 
+Roll: 177.54, Pitch:  79.49, Yaw:  86.90| 
+Roll: 178.07, Pitch:  79.86, Yaw:  88.96| 
+Roll: 178.53, Pitch:  80.15, Yaw:  90.79| 
+Roll: 178.83, Pitch:  80.42, Yaw:  92.48| 
+Roll: 179.18, Pitch:  80.67, Yaw:  94.33| 
+Roll: 179.70, Pitch:  80.91, Yaw:  96.41| 
+Roll:-179.59, Pitch:  81.10, Yaw:  98.63| 
+Roll:-178.68, Pitch:  81.29, Yaw: 101.00| 
+Roll:-177.74, Pitch:  81.51, Yaw: 103.37| 
+Roll:-176.69, Pitch:  81.74, Yaw: 105.94| 
+Roll:-175.37, Pitch:  81.96, Yaw: 108.85| 
+Roll:-173.76, Pitch:  82.16, Yaw: 112.06| 
+Roll:-171.86, Pitch:  82.38, Yaw: 115.53| 
+Roll:-169.64, Pitch:  82.60, Yaw: 119.33| 
+Roll:-166.94, Pitch:  82.82, Yaw: 123.62| 
+Roll:-164.25, Pitch:  83.02, Yaw: 127.88| 
+Roll:-161.76, Pitch:  83.13, Yaw: 131.89| 
+Roll:-159.45, Pitch:  83.21, Yaw: 135.63| 
+Roll:-157.15, Pitch:  83.30, Yaw: 139.35| 
+Roll:-154.62, Pitch:  83.38, Yaw: 143.35| 
+Roll:-151.84, Pitch:  83.43, Yaw: 147.59| 
+Roll:-148.79, Pitch:  83.47, Yaw: 152.07| 
+Roll:-145.95, Pitch:  83.48, Yaw: 156.27| 
+Roll:-143.33, Pitch:  83.47, Yaw: 160.21| 
+Roll:-140.55, Pitch:  83.45, Yaw: 164.28| 
+Roll:-137.69, Pitch:  83.41, Yaw: 168.40| 
+Roll:-134.94, Pitch:  83.32, Yaw: 172.39| 
+Roll:-132.21, Pitch:  83.20, Yaw: 176.36| 
+Roll:-129.33, Pitch:  83.06, Yaw:-179.55| 
+Roll:-126.63, Pitch:  82.90, Yaw:-175.66| 
+Roll:-124.18, Pitch:  82.72, Yaw:-172.04| 
+Roll:-121.96, Pitch:  82.54, Yaw:-168.68| 
+Roll:-120.03, Pitch:  82.33, Yaw:-165.64| 
+Roll:-118.33, Pitch:  82.09, Yaw:-162.87| 
+Roll:-116.52, Pitch:  81.84, Yaw:-160.01| 
+Roll:-114.66, Pitch:  81.58, Yaw:-157.15| 
+Roll:-113.13, Pitch:  81.33, Yaw:-154.69| 
+Roll:-111.95, Pitch:  81.07, Yaw:-152.63| 
+Roll:-110.93, Pitch:  80.82, Yaw:-150.76| 
+Roll:-109.81, Pitch:  80.56, Yaw:-148.86| 
+Roll:-108.76, Pitch:  80.30, Yaw:-147.03| 
+Roll:-107.92, Pitch:  80.04, Yaw:-145.41| 
+Roll:-107.13, Pitch:  79.78, Yaw:-143.85| 
+Roll:-106.29, Pitch:  79.52, Yaw:-142.25| 
+Roll:-105.54, Pitch:  79.28, Yaw:-140.77| 
+Roll:-104.90, Pitch:  79.06, Yaw:-139.45| 
+Roll:-104.45, Pitch:  78.86, Yaw:-138.34| 
+Roll:-103.96, Pitch:  78.68, Yaw:-137.24| 
+Roll:-103.37, Pitch:  78.51, Yaw:-136.07| 
+Roll:-102.77, Pitch:  78.35, Yaw:-134.93| 
+Roll:-102.21, Pitch:  78.19, Yaw:-133.85| 
+Roll:-101.58, Pitch:  78.04, Yaw:-132.72| 
+Roll:-101.06, Pitch:  77.87, Yaw:-131.73| 
+Roll:-100.70, Pitch:  77.71, Yaw:-130.95| 
+Roll:-100.34, Pitch:  77.55, Yaw:-130.23| 
+Roll: -99.82, Pitch:  77.39, Yaw:-129.42| 
+Roll: -99.27, Pitch:  77.26, Yaw:-128.70| 
+Roll: -98.73, Pitch:  77.14, Yaw:-128.11| 
+Roll: -98.36, Pitch:  77.05, Yaw:-127.84| 
+Roll: -98.16, Pitch:  77.02, Yaw:-127.87| 
+Roll: -98.07, Pitch:  77.03, Yaw:-128.11| 
+Roll: -97.92, Pitch:  77.06, Yaw:-128.39| 
+Roll: -97.74, Pitch:  77.13, Yaw:-128.71| 
+Roll: -97.65, Pitch:  77.23, Yaw:-129.18| 
+Roll: -97.70, Pitch:  77.38, Yaw:-129.85| 
+Roll: -97.70, Pitch:  77.56, Yaw:-130.54| 
+Roll: -97.67, Pitch:  77.76, Yaw:-131.27| 
+Roll: -97.69, Pitch:  77.98, Yaw:-132.11| 
+Roll: -97.82, Pitch:  78.22, Yaw:-133.08| 
+Roll: -98.12, Pitch:  78.48, Yaw:-134.28| 
+Roll: -98.41, Pitch:  78.72, Yaw:-135.53| 
+Roll: -98.62, Pitch:  78.98, Yaw:-136.74| 
+Roll: -98.97, Pitch:  79.24, Yaw:-138.11| 
+Roll: -99.54, Pitch:  79.52, Yaw:-139.75| 
+Roll:-100.38, Pitch:  79.82, Yaw:-141.71| 
+Roll:-101.38, Pitch:  80.13, Yaw:-143.90| 
+Roll:-102.45, Pitch:  80.45, Yaw:-146.21| 
+Roll:-103.70, Pitch:  80.79, Yaw:-148.75| 
+Roll:-105.25, Pitch:  81.13, Yaw:-151.66| 
+Roll:-107.17, Pitch:  81.46, Yaw:-154.98| 
+Roll:-109.49, Pitch:  81.79, Yaw:-158.74| 
+Roll:-112.16, Pitch:  82.11, Yaw:-162.89| 
+Roll:-115.02, Pitch:  82.40, Yaw:-167.29| 
+Roll:-118.16, Pitch:  82.66, Yaw:-172.00| 
+Roll:-121.86, Pitch:  82.89, Yaw:-177.32| 
+Roll:-125.90, Pitch:  83.09, Yaw: 176.99| 
+Roll:-130.03, Pitch:  83.25, Yaw: 171.18| 
+Roll:-134.15, Pitch:  83.35, Yaw: 165.40| 
+Roll:-138.35, Pitch:  83.40, Yaw: 159.53| 
+Roll:-142.43, Pitch:  83.42, Yaw: 153.77| 
+Roll:-146.41, Pitch:  83.41, Yaw: 148.09| 
+Roll:-150.11, Pitch:  83.37, Yaw: 142.69| 
+Roll:-153.43, Pitch:  83.31, Yaw: 137.68| 
+Roll:-156.59, Pitch:  83.25, Yaw: 132.86| 
+Roll:-159.42, Pitch:  83.20, Yaw: 128.40| 
+Roll:-161.95, Pitch:  83.13, Yaw: 124.28| 
+Roll:-164.17, Pitch:  83.07, Yaw: 120.51| 
+Roll:-166.17, Pitch:  83.04, Yaw: 117.01| 
+Roll:-168.15, Pitch:  82.98, Yaw: 113.55| 
+Roll:-170.03, Pitch:  82.89, Yaw: 110.21| 
+Roll:-171.82, Pitch:  82.77, Yaw: 107.00| 
+Roll:-173.45, Pitch:  82.65, Yaw: 104.00| 
+Roll:-174.87, Pitch:  82.51, Yaw: 101.27| 
+Roll:-176.12, Pitch:  82.37, Yaw:  98.75| 
+Roll:-177.30, Pitch:  82.24, Yaw:  96.33| 
+Roll:-178.31, Pitch:  82.11, Yaw:  94.07| 
+Roll:-179.22, Pitch:  81.95, Yaw:  91.93| 
+Roll: 180.00, Pitch:  81.74, Yaw:  89.93| 
+Roll: 179.28, Pitch:  81.50, Yaw:  87.99| 
+Roll: 178.62, Pitch:  81.25, Yaw:  86.12| 
+Roll: 178.15, Pitch:  81.00, Yaw:  84.42| 
+Roll: 177.80, Pitch:  80.75, Yaw:  82.85| 
+Roll: 177.45, Pitch:  80.46, Yaw:  81.27| 
+Roll: 177.09, Pitch:  80.14, Yaw:  79.68| 
+Roll: 176.69, Pitch:  79.82, Yaw:  78.05| 
+Roll: 176.30, Pitch:  79.50, Yaw:  76.42| 
+Roll: 175.96, Pitch:  79.16, Yaw:  74.83| 
+Roll: 175.71, Pitch:  78.82, Yaw:  73.32| 
+Roll: 175.42, Pitch:  78.50, Yaw:  71.81| 
+Roll: 175.13, Pitch:  78.19, Yaw:  70.30| 
+Roll: 174.91, Pitch:  77.88, Yaw:  68.91| 
+Roll: 174.66, Pitch:  77.55, Yaw:  67.53| 
+Roll: 174.35, Pitch:  77.21, Yaw:  66.15| 
+Roll: 174.09, Pitch:  76.88, Yaw:  64.85| 
+Roll: 173.96, Pitch:  76.53, Yaw:  63.71| 
+Roll: 173.80, Pitch:  76.13, Yaw:  62.56| 
+Roll: 173.72, Pitch:  75.70, Yaw:  61.52| 
+Roll: 173.75, Pitch:  75.27, Yaw:  60.55| 
+Roll: 173.82, Pitch:  74.80, Yaw:  59.61| 
+Roll: 173.92, Pitch:  74.27, Yaw:  58.70| 
+Roll: 174.04, Pitch:  73.71, Yaw:  57.81| 
+Roll: 174.18, Pitch:  73.16, Yaw:  56.97| 
+Roll: 174.30, Pitch:  72.69, Yaw:  56.16| 
+Roll: 174.41, Pitch:  72.31, Yaw:  55.45| 
+Roll: 174.48, Pitch:  71.96, Yaw:  54.78| 
+Roll: 174.52, Pitch:  71.56, Yaw:  54.12| 
+Roll: 174.53, Pitch:  71.11, Yaw:  53.46| 
+Roll: 174.52, Pitch:  70.66, Yaw:  52.85| 
+Roll: 174.43, Pitch:  70.26, Yaw:  52.24| 
+Roll: 174.32, Pitch:  69.90, Yaw:  51.67| 
+Roll: 174.23, Pitch:  69.56, Yaw:  51.14| 
+Roll: 174.10, Pitch:  69.22, Yaw:  50.60| 
+Roll: 173.95, Pitch:  68.87, Yaw:  50.06| 
+Roll: 173.87, Pitch:  68.58, Yaw:  49.58| 
+Roll: 173.83, Pitch:  68.35, Yaw:  49.13| 
+Roll: 173.80, Pitch:  68.11, Yaw:  48.72| 
+Roll: 173.79, Pitch:  67.89, Yaw:  48.35| 
+Roll: 173.75, Pitch:  67.68, Yaw:  48.02| 
+Roll: 173.69, Pitch:  67.51, Yaw:  47.70| 
+Roll: 173.57, Pitch:  67.39, Yaw:  47.40| 
+Roll: 173.39, Pitch:  67.30, Yaw:  47.14| 
+Roll: 173.14, Pitch:  67.27, Yaw:  46.91| 
+Roll: 172.75, Pitch:  67.31, Yaw:  46.66| 
+Roll: 172.21, Pitch:  67.49, Yaw:  46.46| 
+Roll: 171.67, Pitch:  67.73, Yaw:  46.43| 
+Roll: 171.21, Pitch:  68.01, Yaw:  46.63| 
+Roll: 170.79, Pitch:  68.34, Yaw:  46.94| 
+Roll: 170.33, Pitch:  68.70, Yaw:  47.30| 
+Roll: 169.84, Pitch:  69.11, Yaw:  47.73| 
+Roll: 169.43, Pitch:  69.51, Yaw:  48.30| 
+Roll: 169.15, Pitch:  69.89, Yaw:  49.00| 
+Roll: 169.00, Pitch:  70.24, Yaw:  49.76| 
+Roll: 168.92, Pitch:  70.60, Yaw:  50.56| 
+Roll: 168.84, Pitch:  71.00, Yaw:  51.46| 
+Roll: 168.73, Pitch:  71.47, Yaw:  52.50| 
+Roll: 168.58, Pitch:  72.04, Yaw:  53.64| 
+Roll: 168.45, Pitch:  72.68, Yaw:  54.90| 
+Roll: 168.32, Pitch:  73.38, Yaw:  56.19| 
+Roll: 168.22, Pitch:  74.08, Yaw:  57.54| 
+Roll: 168.28, Pitch:  74.78, Yaw:  59.10| 
+Roll: 168.56, Pitch:  75.49, Yaw:  60.89| 
+Roll: 169.02, Pitch:  76.12, Yaw:  62.79| 
+Roll: 169.49, Pitch:  76.67, Yaw:  64.62| 
+Roll: 169.86, Pitch:  77.18, Yaw:  66.29| 
+Roll: 170.20, Pitch:  77.65, Yaw:  67.92| 
+Roll: 170.58, Pitch:  78.09, Yaw:  69.59| 
+Roll: 177.28, Pitch:  82.52, Yaw:-177.85| 
+Roll: 178.77, Pitch:  82.93, Yaw:-175.21| 
+Roll:-179.48, Pitch:  83.28, Yaw:-172.38| 
+Roll:-177.68, Pitch:  83.53, Yaw:-169.58| 
+Roll:-175.81, Pitch:  83.76, Yaw:-166.79| 
+Roll:-173.86, Pitch:  83.96, Yaw:-163.95| 
+Roll:-171.71, Pitch:  84.14, Yaw:-160.96| 
+Roll:-169.41, Pitch:  84.26, Yaw:-157.86| 
+Roll:-166.83, Pitch:  84.35, Yaw:-154.46| 
+Roll:-163.75, Pitch:  84.43, Yaw:-150.55| 
+Roll:-160.06, Pitch:  84.51, Yaw:-146.01| 
+Roll:-156.23, Pitch:  84.56, Yaw:-141.30| 
+Roll:-152.15, Pitch:  84.58, Yaw:-136.32| 
+Roll:-148.02, Pitch:  84.57, Yaw:-131.27| 
+Roll:-143.78, Pitch:  84.53, Yaw:-126.10| 
+Roll:-139.92, Pitch:  84.44, Yaw:-121.29| 
+Roll:-136.38, Pitch:  84.31, Yaw:-116.81| 
+Roll:-133.21, Pitch:  84.14, Yaw:-112.68| 
+Roll:-130.30, Pitch:  83.95, Yaw:-108.84| 
+Roll:-127.90, Pitch:  83.75, Yaw:-105.48| 
+Roll:-125.62, Pitch:  83.54, Yaw:-102.21| 
+Roll:-123.32, Pitch:  83.31, Yaw: -98.85| 
+Roll:-120.84, Pitch:  83.07, Yaw: -95.30| 
+Roll:-118.37, Pitch:  82.81, Yaw: -91.75| 
+Roll:-115.75, Pitch:  82.54, Yaw: -88.04| 
+Roll:-113.25, Pitch:  82.26, Yaw: -84.50| 
+Roll:-111.50, Pitch:  81.96, Yaw: -81.76| 
+Roll:-110.32, Pitch:  81.66, Yaw: -79.62| 
+Roll:-109.53, Pitch:  81.36, Yaw: -77.94| 
+Roll:-109.04, Pitch:  81.10, Yaw: -76.61| 
+Roll:-108.82, Pitch:  80.87, Yaw: -75.59| 
+Roll:-108.54, Pitch:  80.66, Yaw: -74.55| 
+Roll:-108.43, Pitch:  80.46, Yaw: -73.72| 
+Roll:-108.37, Pitch:  80.27, Yaw: -72.95| 
+Roll:-108.17, Pitch:  80.07, Yaw: -72.02| 
+Roll:-107.78, Pitch:  79.88, Yaw: -70.89| 
+Roll:-107.33, Pitch:  79.70, Yaw: -69.72| 
+Roll:-106.84, Pitch:  79.53, Yaw: -68.57| 
+Roll:-106.29, Pitch:  79.36, Yaw: -67.36| 
+Roll:-105.70, Pitch:  79.18, Yaw: -66.16| 
+Roll:-105.20, Pitch:  78.99, Yaw: -65.07| 
+Roll:-104.85, Pitch:  78.80, Yaw: -64.14| 
+Roll:-104.48, Pitch:  78.61, Yaw: -63.18| 
+Roll:-104.01, Pitch:  78.43, Yaw: -62.13| 
+Roll:-103.54, Pitch:  78.24, Yaw: -61.06| 
+Roll:-103.09, Pitch:  78.05, Yaw: -60.04| 
+Roll:-102.77, Pitch:  77.85, Yaw: -59.15| 
+Roll:-102.58, Pitch:  77.66, Yaw: -58.40| 
+Roll:-102.42, Pitch:  77.49, Yaw: -57.70| 
+Roll:-102.29, Pitch:  77.31, Yaw: -57.04| 
+Roll:-102.16, Pitch:  77.13, Yaw: -56.40| 
+Roll:-102.13, Pitch:  76.95, Yaw: -55.88| 
+Roll:-102.30, Pitch:  76.79, Yaw: -55.60| 
+Roll:-102.49, Pitch:  76.65, Yaw: -55.36| 
+Roll:-102.73, Pitch:  76.52, Yaw: -55.18| 
+Roll:-103.01, Pitch:  76.38, Yaw: -55.07| 
+Roll:-103.24, Pitch:  76.24, Yaw: -54.93| 
+Roll:-103.38, Pitch:  76.11, Yaw: -54.70| 
+Roll:-103.51, Pitch:  75.97, Yaw: -54.47| 
+Roll:-103.58, Pitch:  75.81, Yaw: -54.19| 
+Roll:-103.62, Pitch:  75.65, Yaw: -53.86| 
+Roll:-103.68, Pitch:  75.49, Yaw: -53.51| 
+Roll:-103.61, Pitch:  75.33, Yaw: -53.04| 
+Roll:-103.51, Pitch:  75.17, Yaw: -52.53| 
+Roll:-103.47, Pitch:  75.02, Yaw: -52.10| 
+Roll:-103.37, Pitch:  74.87, Yaw: -51.64| 
+Roll:-103.22, Pitch:  74.71, Yaw: -51.12| 
+Roll:-103.14, Pitch:  74.57, Yaw: -50.71| 
+Roll:-103.06, Pitch:  74.44, Yaw: -50.33| 
+Roll:-102.97, Pitch:  74.33, Yaw: -49.96| 
+Roll:-102.94, Pitch:  74.23, Yaw: -49.70| 
+Roll:-102.97, Pitch:  74.15, Yaw: -49.55| 
+Roll:-103.01, Pitch:  74.10, Yaw: -49.48| 
+Roll:-103.01, Pitch:  74.06, Yaw: -49.43| 
+Roll:-102.93, Pitch:  74.06, Yaw: -49.44| 
+Roll:-102.86, Pitch:  74.08, Yaw: -49.56| 
+Roll:-102.79, Pitch:  74.13, Yaw: -49.80| 
+Roll:-102.68, Pitch:  74.22, Yaw: -50.10| 
+Roll:-102.57, Pitch:  74.34, Yaw: -50.51| 
+Roll:-102.50, Pitch:  74.49, Yaw: -51.08| 
+Roll:-102.40, Pitch:  74.67, Yaw: -51.74| 
+Roll:-102.32, Pitch:  74.88, Yaw: -52.51| 
+Roll:-102.21, Pitch:  75.12, Yaw: -53.32| 
+Roll:-101.94, Pitch:  75.40, Yaw: -54.04| 
+Roll:-101.70, Pitch:  75.70, Yaw: -54.90| 
+Roll:-101.58, Pitch:  76.01, Yaw: -55.99| 
+Roll:-101.57, Pitch:  76.33, Yaw: -57.30| 
+Roll:-101.78, Pitch:  76.65, Yaw: -58.92| 
+Roll:-102.28, Pitch:  76.97, Yaw: -60.94| 
+Roll:-102.89, Pitch:  77.32, Yaw: -63.13| 
+Roll:-103.64, Pitch:  77.66, Yaw: -65.49| 
+Roll:-104.62, Pitch:  78.00, Yaw: -68.11| 
+Roll:-105.76, Pitch:  78.33, Yaw: -70.95| 
+Roll:-107.01, Pitch:  78.68, Yaw: -73.93| 
+Roll:-108.74, Pitch:  79.02, Yaw: -77.44| 
+Roll:-110.85, Pitch:  79.36, Yaw: -81.34| 
+Roll:-113.19, Pitch:  79.71, Yaw: -85.47| 
+Roll:-115.68, Pitch:  80.04, Yaw: -89.72| 
+Roll:-118.44, Pitch:  80.32, Yaw: -94.21| 
+Roll:-121.59, Pitch:  80.53, Yaw: -99.06| 
+Roll:-124.95, Pitch:  80.70, Yaw:-104.06| 
+Roll:-128.01, Pitch:  80.85, Yaw:-108.71| 
+Roll:-130.81, Pitch:  80.98, Yaw:-113.05| 
+Roll:-133.78, Pitch:  81.08, Yaw:-117.53| 
+Roll:-137.11, Pitch:  81.12, Yaw:-122.33| 
+Roll:-140.25, Pitch:  81.16, Yaw:-126.89| 
+Roll:-143.02, Pitch:  81.21, Yaw:-130.99| 
+Roll:-145.65, Pitch:  81.24, Yaw:-134.92| 
+Roll:-148.25, Pitch:  81.22, Yaw:-138.80| 
+Roll:-150.85, Pitch:  81.18, Yaw:-142.68| 
+Roll:-153.38, Pitch:  81.11, Yaw:-146.47| 
+Roll:-155.77, Pitch:  80.98, Yaw:-150.16| 
+Roll:-158.07, Pitch:  80.83, Yaw:-153.78| 
+Roll:-160.20, Pitch:  80.64, Yaw:-157.22| 
+Roll:-162.13, Pitch:  80.45, Yaw:-160.47| 
+Roll:-163.90, Pitch:  80.24, Yaw:-163.54| 
+Roll:-165.55, Pitch:  80.01, Yaw:-166.49| 
+Roll:-167.14, Pitch:  79.74, Yaw:-169.39| 
+Roll:-168.58, Pitch:  79.46, Yaw:-172.13| 
+Roll:-169.73, Pitch:  79.23, Yaw:-174.56| 
+Roll:-170.64, Pitch:  79.04, Yaw:-176.73| 
+Roll:-171.44, Pitch:  78.84, Yaw:-178.76| 
+Roll:-172.15, Pitch:  78.66, Yaw: 179.34| 
+Roll:-172.73, Pitch:  78.53, Yaw: 177.60| 
+Roll:-173.28, Pitch:  78.38, Yaw: 175.87| 
+Roll:-173.86, Pitch:  78.24, Yaw: 174.14| 
+Roll:-174.41, Pitch:  78.07, Yaw: 172.44| 
+Roll:-174.89, Pitch:  77.91, Yaw: 170.81| 
+Roll:-175.36, Pitch:  77.74, Yaw: 169.20| 
+Roll:-175.78, Pitch:  77.55, Yaw: 167.64| 
+Roll:-176.23, Pitch:  77.35, Yaw: 166.07| 
+Roll:-176.56, Pitch:  77.21, Yaw: 164.64| 
+Roll:-176.80, Pitch:  77.04, Yaw: 163.32| 
+Roll:-177.00, Pitch:  76.82, Yaw: 162.04| 
+Roll:-177.25, Pitch:  76.58, Yaw: 160.74| 
+Roll:-177.48, Pitch:  76.34, Yaw: 159.45| 
+Roll:-177.62, Pitch:  76.10, Yaw: 158.25| 
+Roll:-177.70, Pitch:  75.83, Yaw: 157.12| 
+Roll:-177.84, Pitch:  75.52, Yaw: 156.01| 
+Roll:-178.02, Pitch:  75.27, Yaw: 154.95| 
+Roll:-178.02, Pitch:  75.08, Yaw: 154.12| 
+Roll:-177.96, Pitch:  74.91, Yaw: 153.40| 
+Roll:-177.85, Pitch:  74.72, Yaw: 152.79| 
+Roll:-177.79, Pitch:  74.50, Yaw: 152.15| 
+Roll:-177.87, Pitch:  74.27, Yaw: 151.37| 
+Roll:-177.70, Pitch:  74.03, Yaw: 150.83| 
+Roll:-177.40, Pitch:  73.73, Yaw: 150.42| 
+Roll:-177.20, Pitch:  73.37, Yaw: 149.93| 
+Roll:-177.15, Pitch:  73.01, Yaw: 149.36| 
+Roll:-177.01, Pitch:  72.73, Yaw: 149.08| 
+Roll:-176.92, Pitch:  72.60, Yaw: 148.99| 
+Roll:-176.93, Pitch:  72.48, Yaw: 148.94| 
+Roll:-177.06, Pitch:  72.40, Yaw: 148.93| 
+Roll:-177.26, Pitch:  72.39, Yaw: 148.96| 
+Roll:-177.45, Pitch:  72.40, Yaw: 148.97| 
+Roll:-177.57, Pitch:  72.39, Yaw: 149.09| 
+Roll:-177.58, Pitch:  72.37, Yaw: 149.35| 
+Roll:-177.58, Pitch:  72.40, Yaw: 149.69| 
+Roll:-177.65, Pitch:  72.53, Yaw: 150.10| 
+Roll:-177.78, Pitch:  72.76, Yaw: 150.64| 
+Roll:-177.93, Pitch:  73.12, Yaw: 151.39| 
+Roll:-178.06, Pitch:  73.50, Yaw: 152.36| 
+Roll:-178.19, Pitch:  73.93, Yaw: 153.41| 
+Roll:-178.35, Pitch:  74.41, Yaw: 154.46| 
+Roll:-178.51, Pitch:  74.88, Yaw: 155.50| 
+Roll:-178.65, Pitch:  75.33, Yaw: 156.58| 
+Roll:-178.74, Pitch:  75.67, Yaw: 157.70| 
+Roll:-178.82, Pitch:  75.98, Yaw: 158.76| 
+Roll:-178.97, Pitch:  76.33, Yaw: 159.79| 
+Roll:-179.07, Pitch:  76.73, Yaw: 160.97| 
+Roll:-179.11, Pitch:  77.12, Yaw: 162.26| 
+Roll:-179.13, Pitch:  77.54, Yaw: 163.58| 
+Roll:-179.19, Pitch:  78.00, Yaw: 164.87| 
+Roll:-179.21, Pitch:  78.46, Yaw: 166.24| 
+Roll:-179.10, Pitch:  78.87, Yaw: 167.77| 
+Roll:-178.83, Pitch:  79.28, Yaw: 169.47| 
+Roll:-178.43, Pitch:  79.67, Yaw: 171.24| 
+Roll:-178.04, Pitch:  80.05, Yaw: 172.95| 
+Roll:-177.59, Pitch:  80.44, Yaw: 174.77| 
+Roll:-176.85, Pitch:  80.84, Yaw: 176.94| 
+Roll:-175.80, Pitch:  81.22, Yaw: 179.43| 
+Roll:-174.68, Pitch:  81.58, Yaw:-178.04| 
+Roll:-173.46, Pitch:  81.96, Yaw:-175.36| 
+Roll:-171.81, Pitch:  82.36, Yaw:-172.18| 
+Roll:-169.64, Pitch:  82.74, Yaw:-168.50| 
+Roll:-167.15, Pitch:  83.07, Yaw:-164.53| 
+Roll:-164.20, Pitch:  83.38, Yaw:-160.07| 
+Roll:-160.73, Pitch:  83.60, Yaw:-155.08| 
+Roll:-157.02, Pitch:  83.76, Yaw:-149.87| 
+Roll:-153.54, Pitch:  83.83, Yaw:-144.97| 
+Roll:-150.10, Pitch:  83.88, Yaw:-140.16| 
+Roll:-146.54, Pitch:  83.88, Yaw:-135.26| 
+Roll:-142.68, Pitch:  83.82, Yaw:-130.08| 
+Roll:-138.44, Pitch:  83.73, Yaw:-124.49| 
+Roll:-134.27, Pitch:  83.59, Yaw:-118.93| 
+Roll:-129.71, Pitch:  83.44, Yaw:-112.89| 
+Roll:-125.51, Pitch:  83.21, Yaw:-107.17| 
+Roll:-121.72, Pitch:  82.92, Yaw:-101.87| 
+Roll:-117.88, Pitch:  82.61, Yaw: -96.54| 
+Roll:-114.44, Pitch:  82.28, Yaw: -91.66| 
+Roll:-111.48, Pitch:  81.91, Yaw: -87.29| 
+Roll:-109.16, Pitch:  81.49, Yaw: -83.60| 
+Roll:-107.34, Pitch:  81.06, Yaw: -80.45| 
+Roll:-105.95, Pitch:  80.64, Yaw: -77.77| 
+Roll:-104.94, Pitch:  80.23, Yaw: -75.50| 
+Roll:-104.15, Pitch:  79.83, Yaw: -73.47| 
+Roll:-103.69, Pitch:  79.43, Yaw: -71.83| 
+Roll:-103.27, Pitch:  79.05, Yaw: -70.27| 
+Roll:-103.08, Pitch:  78.69, Yaw: -69.02| 
+Roll:-102.98, Pitch:  78.34, Yaw: -67.90| 
+Roll:-103.08, Pitch:  77.99, Yaw: -67.02| 
+Roll:-103.20, Pitch:  77.66, Yaw: -66.21| 
+Roll:-103.37, Pitch:  77.35, Yaw: -65.45| 
+Roll:-103.62, Pitch:  77.06, Yaw: -64.78| 
+Roll:-103.76, Pitch:  76.73, Yaw: -63.95| 
+Roll:-103.63, Pitch:  76.39, Yaw: -62.84| 
+Roll:-103.44, Pitch:  76.03, Yaw: -61.69| 
+Roll:-103.34, Pitch:  75.68, Yaw: -60.65| 
+Roll:-103.47, Pitch:  75.32, Yaw: -59.90| 
+Roll:-103.72, Pitch:  74.98, Yaw: -59.33| 
+Roll:-103.91, Pitch:  74.65, Yaw: -58.76| 
+Roll:-104.02, Pitch:  74.35, Yaw: -58.15| 
+Roll:-104.17, Pitch:  74.05, Yaw: -57.65| 
+Roll:-104.38, Pitch:  73.76, Yaw: -57.23| 
+Roll:-104.53, Pitch:  73.49, Yaw: -56.77| 
+Roll:-104.63, Pitch:  73.23, Yaw: -56.22| 
+Roll:-104.73, Pitch:  73.00, Yaw: -55.68| 
+Roll:-104.82, Pitch:  72.79, Yaw: -55.15| 
+Roll:-104.95, Pitch:  72.58, Yaw: -54.70| 
+Roll:-105.06, Pitch:  72.40, Yaw: -54.27| 
+Roll:-105.08, Pitch:  72.24, Yaw: -53.78| 
+Roll:-105.09, Pitch:  72.08, Yaw: -53.31| 
+Roll:-105.09, Pitch:  71.93, Yaw: -52.83| 
+Roll:-104.97, Pitch:  71.79, Yaw: -52.28| 
+Roll:-104.86, Pitch:  71.68, Yaw: -51.79| 
+Roll:-104.72, Pitch:  71.57, Yaw: -51.30| 
+Roll:-104.53, Pitch:  71.47, Yaw: -50.82| 
+Roll:-104.36, Pitch:  71.39, Yaw: -50.39| 
+Roll:-104.24, Pitch:  71.30, Yaw: -50.06| 
+Roll:-104.05, Pitch:  71.22, Yaw: -49.71| 
+Roll:-103.86, Pitch:  71.17, Yaw: -49.45| 
+Roll:-103.76, Pitch:  71.14, Yaw: -49.35| 
+Roll:-103.64, Pitch:  71.13, Yaw: -49.24| 
+Roll:-103.47, Pitch:  71.13, Yaw: -49.14| 
+Roll:-103.26, Pitch:  71.15, Yaw: -49.10| 
+Roll:-102.99, Pitch:  71.21, Yaw: -49.11| 
+Roll:-102.65, Pitch:  71.32, Yaw: -49.21| 
+Roll:-102.33, Pitch:  71.48, Yaw: -49.49| 
+Roll:-102.05, Pitch:  71.70, Yaw: -49.98| 
+Roll:-101.87, Pitch:  72.01, Yaw: -50.73| 
+Roll:-101.73, Pitch:  72.38, Yaw: -51.64| 
+Roll:-101.61, Pitch:  72.82, Yaw: -52.69| 
+Roll:-101.59, Pitch:  73.30, Yaw: -53.95| 
+Roll:-101.63, Pitch:  73.79, Yaw: -55.33| 
+Roll:-101.60, Pitch:  74.26, Yaw: -56.69| 
+Roll:-101.44, Pitch:  74.71, Yaw: -57.97| 
+Roll:-101.20, Pitch:  75.14, Yaw: -59.25| 
+Roll:-101.09, Pitch:  75.55, Yaw: -60.71| 
+Roll:-101.19, Pitch:  75.94, Yaw: -62.37| 
+Roll:-101.23, Pitch:  76.32, Yaw: -63.97| 
+Roll:-101.21, Pitch:  76.69, Yaw: -65.52| 
+Roll:-101.18, Pitch:  77.07, Yaw: -67.08| 
+Roll:-101.42, Pitch:  77.45, Yaw: -68.98| 
+Roll:-101.93, Pitch:  77.83, Yaw: -71.20| 
+Roll:-102.88, Pitch:  78.22, Yaw: -73.89| 
+Roll:-103.83, Pitch:  78.63, Yaw: -76.57| 
+Roll:-104.75, Pitch:  79.05, Yaw: -79.19| 
+Roll:-106.05, Pitch:  79.46, Yaw: -82.23| 
+Roll:-107.97, Pitch:  79.85, Yaw: -85.93| 
+Roll:-110.50, Pitch:  80.18, Yaw: -90.28| 
+Roll:-113.45, Pitch:  80.48, Yaw: -95.09| 
+Roll:-116.68, Pitch:  80.76, Yaw:-100.17| 
+Roll:-119.99, Pitch:  81.04, Yaw:-105.30| 
+Roll:-123.46, Pitch:  81.26, Yaw:-110.55| 
+Roll:-127.01, Pitch:  81.39, Yaw:-115.84| 
+Roll:-130.49, Pitch:  81.44, Yaw:-120.99| 
+Roll:-133.71, Pitch:  81.45, Yaw:-125.81| 
+Roll:-136.52, Pitch:  81.43, Yaw:-130.15| 
+Roll:-138.98, Pitch:  81.43, Yaw:-134.08| 
+Roll:-141.22, Pitch:  81.42, Yaw:-137.78| 
+Roll:-143.55, Pitch:  81.37, Yaw:-141.55| 
+Roll:-145.89, Pitch:  81.27, Yaw:-145.32| 
+Roll:-148.21, Pitch:  81.12, Yaw:-149.07| 
+Roll:-150.30, Pitch:  80.97, Yaw:-152.58| 
+Roll:-152.16, Pitch:  80.81, Yaw:-155.85| 
+Roll:-153.77, Pitch:  80.66, Yaw:-158.86| 
+Roll:-155.20, Pitch:  80.48, Yaw:-161.62| 
+Roll:-156.65, Pitch:  80.28, Yaw:-164.39| 
+Roll:-157.95, Pitch:  80.08, Yaw:-166.97| 
+Roll:-158.98, Pitch:  79.92, Yaw:-169.24| 
+Roll:-159.87, Pitch:  79.75, Yaw:-171.33| 
+Roll:-160.66, Pitch:  79.57, Yaw:-173.30| 
+Roll:-161.43, Pitch:  79.37, Yaw:-175.24| 
+Roll:-162.22, Pitch:  79.14, Yaw:-177.21| 
+Roll:-162.95, Pitch:  78.94, Yaw:-179.11| 
+Roll:-163.57, Pitch:  78.75, Yaw: 179.12| 
+Roll:-164.12, Pitch:  78.56, Yaw: 177.43| 
+Roll:-164.62, Pitch:  78.33, Yaw: 175.80| 
+Roll:-165.09, Pitch:  78.07, Yaw: 174.18| 
+Roll:-165.55, Pitch:  77.82, Yaw: 172.60| 
+Roll:-165.98, Pitch:  77.55, Yaw: 171.07| 
+Roll:-166.45, Pitch:  77.28, Yaw: 169.53| 
+Roll:-166.91, Pitch:  77.02, Yaw: 168.00| 
+Roll:-167.31, Pitch:  76.76, Yaw: 166.56| 
+Roll:-167.69, Pitch:  76.47, Yaw: 165.12| 
+Roll:-168.12, Pitch:  76.15, Yaw: 163.63| 
+Roll:-168.57, Pitch:  75.81, Yaw: 162.09| 
+Roll:-169.02, Pitch:  75.42, Yaw: 160.53| 
+Roll:-169.50, Pitch:  74.99, Yaw: 158.93| 
+Roll:-170.01, Pitch:  74.52, Yaw: 157.29| 
+Roll:-170.56, Pitch:  74.03, Yaw: 155.63| 
+Roll:-171.20, Pitch:  73.58, Yaw: 153.96| 
+Roll:-171.94, Pitch:  73.19, Yaw: 152.31| 
+Roll:-172.59, Pitch:  72.80, Yaw: 150.88| 
+Roll:-173.24, Pitch:  72.43, Yaw: 149.56| 
+Roll:-173.83, Pitch:  72.11, Yaw: 148.44| 
+Roll:-174.34, Pitch:  71.85, Yaw: 147.58| 
+Roll:-174.81, Pitch:  71.69, Yaw: 146.96| 
+Roll:-175.27, Pitch:  71.59, Yaw: 146.52| 
+Roll:-175.66, Pitch:  71.55, Yaw: 146.33| 
+Roll:-175.99, Pitch:  71.60, Yaw: 146.36| 
+Roll:-176.27, Pitch:  71.65, Yaw: 146.54| 
+Roll:-176.47, Pitch:  71.73, Yaw: 146.83| 
+Roll:-176.55, Pitch:  71.82, Yaw: 147.28| 
+Roll:-176.52, Pitch:  71.91, Yaw: 147.90| 
+Roll:-176.43, Pitch:  72.00, Yaw: 148.65| 
+Roll:-176.32, Pitch:  72.15, Yaw: 149.51| 
+Roll:-176.18, Pitch:  72.39, Yaw: 150.49| 
+Roll:-176.03, Pitch:  72.71, Yaw: 151.59| 
+Roll:-175.88, Pitch:  73.09, Yaw: 152.76| 
+Roll:-175.73, Pitch:  73.57, Yaw: 154.03| 
+Roll:-175.54, Pitch:  74.09, Yaw: 155.38| 
+Roll:-175.38, Pitch:  74.59, Yaw: 156.70| 
+Roll:-175.25, Pitch:  75.08, Yaw: 157.95| 
+Roll:-175.10, Pitch:  75.60, Yaw: 159.24| 
+Roll:-174.82, Pitch:  76.19, Yaw: 160.74| 
+Roll:-174.46, Pitch:  76.76, Yaw: 162.33| 
+Roll:-174.15, Pitch:  77.26, Yaw: 163.83| 
+Roll:-173.97, Pitch:  77.73, Yaw: 165.22| 
+Roll:-173.72, Pitch:  78.24, Yaw: 166.74| 
+Roll:-173.40, Pitch:  78.71, Yaw: 168.33| 
+Roll:-173.12, Pitch:  79.13, Yaw: 169.80| 
+Roll:-172.88, Pitch:  79.54, Yaw: 171.22| 
+Roll:-172.45, Pitch:  79.97, Yaw: 172.88| 
+Roll:-171.83, Pitch:  80.34, Yaw: 174.73| 
+Roll:-171.24, Pitch:  80.61, Yaw: 176.53| 
+Roll:-170.73, Pitch:  80.87, Yaw: 178.23| 
+Roll:-170.03, Pitch:  81.19, Yaw:-179.86| 
+Roll:-169.14, Pitch:  81.51, Yaw:-177.74| 
+Roll:-168.10, Pitch:  81.81, Yaw:-175.46| 
+Roll:-167.01, Pitch:  82.03, Yaw:-173.14| 
+Roll:-165.63, Pitch:  82.27, Yaw:-170.47| 
+Roll:-163.90, Pitch:  82.50, Yaw:-167.43| 
+Roll:-161.81, Pitch:  82.71, Yaw:-164.08| 
+Roll:-159.69, Pitch:  82.90, Yaw:-160.75| 
+Roll:-157.47, Pitch:  83.07, Yaw:-157.33| 
+Roll:-155.12, Pitch:  83.21, Yaw:-153.74| 
+Roll:-152.42, Pitch:  83.31, Yaw:-149.79| 
+Roll:-149.51, Pitch:  83.36, Yaw:-145.59| 
+Roll:-146.15, Pitch:  83.42, Yaw:-140.97| 
+Roll:-142.79, Pitch:  83.48, Yaw:-136.39| 
+Roll:-139.49, Pitch:  83.50, Yaw:-131.91| 
+Roll:-136.45, Pitch:  83.42, Yaw:-127.73| 
+Roll:-133.40, Pitch:  83.27, Yaw:-123.58| 
+Roll:-130.46, Pitch:  83.05, Yaw:-119.59| 
+Roll:-127.65, Pitch:  82.83, Yaw:-115.72| 
+Roll:-124.83, Pitch:  82.63, Yaw:-111.84| 
+Roll:-122.10, Pitch:  82.43, Yaw:-108.08| 
+Roll:-120.10, Pitch:  82.19, Yaw:-105.12| 
+Roll:-118.54, Pitch:  81.93, Yaw:-102.65| 
+Roll:-117.33, Pitch:  81.64, Yaw:-100.55| 
+Roll:-116.20, Pitch:  81.36, Yaw: -98.58| 
+Roll:-115.31, Pitch:  81.11, Yaw: -96.88| 
+Roll:-114.57, Pitch:  80.89, Yaw: -95.38| 
+Roll:-114.08, Pitch:  80.68, Yaw: -94.11| 
+Roll:-113.87, Pitch:  80.47, Yaw: -93.15| 
+Roll:-113.71, Pitch:  80.25, Yaw: -92.23| 
+Roll:-113.28, Pitch:  80.06, Yaw: -91.03| 
+Roll:-112.41, Pitch:  79.89, Yaw: -89.39| 
+Roll:-111.60, Pitch:  79.73, Yaw: -87.84| 
+Roll:-110.94, Pitch:  79.57, Yaw: -86.49| 
+Roll:-110.57, Pitch:  79.40, Yaw: -85.43| 
+Roll:-110.27, Pitch:  79.21, Yaw: -84.45| 
+Roll:-109.81, Pitch:  79.02, Yaw: -83.28| 
+Roll:-109.13, Pitch:  78.84, Yaw: -81.89| 
+Roll:-108.54, Pitch:  78.66, Yaw: -80.60| 
+Roll:-108.09, Pitch:  78.48, Yaw: -79.48| 
+Roll:-107.74, Pitch:  78.31, Yaw: -78.47| 
+Roll:-107.58, Pitch:  78.14, Yaw: -77.68| 
+Roll:-107.38, Pitch:  77.97, Yaw: -76.84| 
+Roll:-107.14, Pitch:  77.82, Yaw: -75.99| 
+Roll:-107.00, Pitch:  77.67, Yaw: -75.25| 
+Roll:-106.90, Pitch:  77.53, Yaw: -74.57| 
+Roll:-106.88, Pitch:  77.36, Yaw: -73.96| 
+Roll:-106.92, Pitch:  77.19, Yaw: -73.39| 
+Roll:-107.00, Pitch:  77.01, Yaw: -72.86| 
+Roll:-106.98, Pitch:  76.83, Yaw: -72.22| 
+Roll:-106.89, Pitch:  76.65, Yaw: -71.52| 
+Roll:-106.74, Pitch:  76.47, Yaw: -70.77| 
+Roll:-106.58, Pitch:  76.28, Yaw: -70.02| 
+Roll:-106.47, Pitch:  76.09, Yaw: -69.37| 
+Roll:-106.40, Pitch:  75.88, Yaw: -68.79| 
+Roll:-106.27, Pitch:  75.66, Yaw: -68.13| 
+Roll:-106.08, Pitch:  75.47, Yaw: -67.43| 
+Roll:-106.07, Pitch:  75.28, Yaw: -66.96| 
+Roll:-106.04, Pitch:  75.07, Yaw: -66.46| 
+Roll:-105.94, Pitch:  74.88, Yaw: -65.88| 
+Roll:-105.84, Pitch:  74.69, Yaw: -65.28| 
+Roll:-105.81, Pitch:  74.51, Yaw: -64.76| 
+Roll:-105.79, Pitch:  74.33, Yaw: -64.26| 
+Roll:-105.76, Pitch:  74.14, Yaw: -63.77| 
+Roll:-105.68, Pitch:  73.95, Yaw: -63.25| 
+Roll:-105.61, Pitch:  73.75, Yaw: -62.74| 
+Roll:-105.50, Pitch:  73.57, Yaw: -62.21| 
+Roll:-105.44, Pitch:  73.37, Yaw: -61.71| 
+Roll:-105.36, Pitch:  73.16, Yaw: -61.22| 
+Roll:-105.26, Pitch:  72.96, Yaw: -60.72| 
+Roll:-105.10, Pitch:  72.76, Yaw: -60.15| 
+Roll:-104.92, Pitch:  72.59, Yaw: -59.56| 
+Roll:-104.83, Pitch:  72.40, Yaw: -59.09| 
+Roll:-104.70, Pitch:  72.23, Yaw: -58.63| 
+Roll:-104.58, Pitch:  72.06, Yaw: -58.19| 
+Roll:-104.43, Pitch:  71.92, Yaw: -57.76| 
+Roll:-104.35, Pitch:  71.78, Yaw: -57.43| 
+Roll:-104.28, Pitch:  71.67, Yaw: -57.17| 
+Roll:-104.18, Pitch:  71.57, Yaw: -56.90| 
+Roll:-104.03, Pitch:  71.50, Yaw: -56.63| 
+Roll:-103.86, Pitch:  71.45, Yaw: -56.40| 
+Roll:-103.74, Pitch:  71.41, Yaw: -56.25| 
+Roll:-103.63, Pitch:  71.39, Yaw: -56.17| 
+Roll:-103.48, Pitch:  71.41, Yaw: -56.11| 
+Roll:-103.26, Pitch:  71.48, Yaw: -56.04| 
+Roll:-103.05, Pitch:  71.58, Yaw: -56.08| 
+Roll:-102.85, Pitch:  71.71, Yaw: -56.23| 
+Roll:-102.68, Pitch:  71.89, Yaw: -56.54| 
+Roll:-102.51, Pitch:  72.13, Yaw: -56.99| 
+Roll:-102.26, Pitch:  72.43, Yaw: -57.54| 
+Roll:-102.02, Pitch:  72.79, Yaw: -58.32| 
+Roll:-101.83, Pitch:  73.22, Yaw: -59.32| 
+Roll:-101.82, Pitch:  73.72, Yaw: -60.62| 
+Roll:-101.94, Pitch:  74.28, Yaw: -62.13| 
+Roll:-102.17, Pitch:  74.89, Yaw: -63.83| 
+Roll:-102.42, Pitch:  75.51, Yaw: -65.64| 
+Roll:-102.69, Pitch:  76.11, Yaw: -67.57| 
+Roll:-102.98, Pitch:  76.70, Yaw: -69.56| 
+Roll:-103.34, Pitch:  77.28, Yaw: -71.67| 
+Roll:-103.75, Pitch:  77.84, Yaw: -73.84| 
+Roll:-104.41, Pitch:  78.38, Yaw: -76.27| 
+Roll:-105.48, Pitch:  78.90, Yaw: -79.17| 
+Roll:-106.80, Pitch:  79.40, Yaw: -82.29| 
+Roll:-108.11, Pitch:  79.92, Yaw: -85.40| 
+Roll:-109.57, Pitch:  80.43, Yaw: -88.68| 
+Roll:-111.54, Pitch:  80.89, Yaw: -92.52| 
+Roll:-113.96, Pitch:  81.31, Yaw: -96.86| 
+Roll:-117.13, Pitch:  81.69, Yaw:-101.96| 
+Roll:-120.50, Pitch:  82.05, Yaw:-107.23| 
+Roll:-124.01, Pitch:  82.36, Yaw:-112.61| 
+Roll:-127.85, Pitch:  82.59, Yaw:-118.31| 
+Roll:-132.25, Pitch:  82.71, Yaw:-124.55| 
+Roll:-136.48, Pitch:  82.77, Yaw:-130.56| 
+Roll:-140.43, Pitch:  82.78, Yaw:-136.24| 
+Roll:-143.94, Pitch:  82.77, Yaw:-141.43| 
+Roll:-147.00, Pitch:  82.75, Yaw:-146.13| 
+Roll:-149.72, Pitch:  82.67, Yaw:-150.44| 
+Roll:-152.39, Pitch:  82.50, Yaw:-154.69| 
+Roll:-154.98, Pitch:  82.28, Yaw:-158.86| 
+Roll:-157.21, Pitch:  82.07, Yaw:-162.65| 
+Roll:-158.97, Pitch:  81.86, Yaw:-165.97| 
+Roll:-160.60, Pitch:  81.59, Yaw:-169.16| 
+Roll:-162.38, Pitch:  81.18, Yaw:-172.56| 
+Roll:-164.21, Pitch:  80.68, Yaw:-176.04| 
+Roll:-165.71, Pitch:  80.20, Yaw:-179.17| 
+Roll:-166.86, Pitch:  79.77, Yaw: 178.07| 
+Roll:-167.80, Pitch:  79.35, Yaw: 175.55| 
+Roll:-168.65, Pitch:  78.89, Yaw: 173.11| 
+Roll:-169.47, Pitch:  78.42, Yaw: 170.74| 
+Roll:-170.13, Pitch:  78.00, Yaw: 168.60| 
+Roll:-170.64, Pitch:  77.64, Yaw: 166.66| 
+Roll:-171.19, Pitch:  77.29, Yaw: 164.72| 
+Roll:-171.68, Pitch:  76.92, Yaw: 162.84| 
+Roll:-172.13, Pitch:  76.48, Yaw: 160.98| 
+Roll:-172.49, Pitch:  75.94, Yaw: 159.17| 
+Roll:-172.91, Pitch:  75.34, Yaw: 157.26| 
+Roll:-173.25, Pitch:  74.78, Yaw: 155.45| 
+Roll:-173.44, Pitch:  74.26, Yaw: 153.82| 
+Roll:-173.59, Pitch:  73.73, Yaw: 152.32| 
+Roll:-173.76, Pitch:  73.26, Yaw: 150.96| 
+Roll:-173.92, Pitch:  72.86, Yaw: 149.78| 
+Roll:-174.15, Pitch:  72.44, Yaw: 148.65| 
+Roll:-174.40, Pitch:  72.05, Yaw: 147.60| 
+Roll:-174.64, Pitch:  71.70, Yaw: 146.65| 
+Roll:-174.86, Pitch:  71.37, Yaw: 145.79| 
+Roll:-175.06, Pitch:  71.05, Yaw: 145.02| 
+Roll:-175.22, Pitch:  70.74, Yaw: 144.36| 
+Roll:-175.30, Pitch:  70.45, Yaw: 143.86| 
+Roll:-175.43, Pitch:  70.20, Yaw: 143.44| 
+Roll:-175.60, Pitch:  70.07, Yaw: 143.13| 
+Roll:-175.77, Pitch:  70.04, Yaw: 143.00| 
+Roll:-175.95, Pitch:  70.07, Yaw: 143.03| 
+Roll:-176.16, Pitch:  70.19, Yaw: 143.17| 
+Roll:-176.36, Pitch:  70.40, Yaw: 143.44| 
+Roll:-176.54, Pitch:  70.67, Yaw: 143.82| 
+Roll:-176.66, Pitch:  70.90, Yaw: 144.32| 
+Roll:-176.70, Pitch:  71.03, Yaw: 144.92| 
+Roll:-176.72, Pitch:  71.14, Yaw: 145.60| 
+Roll:-176.76, Pitch:  71.33, Yaw: 146.37| 
+Roll:-176.80, Pitch:  71.63, Yaw: 147.32| 
+Roll:-176.85, Pitch:  72.02, Yaw: 148.44| 
+Roll:-176.98, Pitch:  72.45, Yaw: 149.59| 
+Roll:-177.19, Pitch:  72.96, Yaw: 150.72| 
+Roll:-177.42, Pitch:  73.50, Yaw: 151.85| 
+Roll:-177.54, Pitch:  74.03, Yaw: 153.13| 
+Roll:-177.50, Pitch:  74.54, Yaw: 154.59| 
+Roll:-177.34, Pitch:  75.02, Yaw: 156.17| 
+Roll:-177.19, Pitch:  75.54, Yaw: 157.78| 
+Roll:-177.08, Pitch:  76.09, Yaw: 159.42| 
+Roll:-176.80, Pitch:  76.67, Yaw: 161.27| 
+Roll:-176.32, Pitch:  77.20, Yaw: 163.26| 
+Roll:-175.82, Pitch:  77.68, Yaw: 165.18| 
+Roll:-175.36, Pitch:  78.18, Yaw: 167.05| 
+Roll:-174.69, Pitch:  78.75, Yaw: 169.23| 
+Roll:-173.66, Pitch:  79.30, Yaw: 171.82| 
+Roll:-172.38, Pitch:  79.80, Yaw: 174.64| 
+Roll:-171.06, Pitch:  80.30, Yaw: 177.50| 
+Roll:-169.59, Pitch:  80.83, Yaw:-179.42| 
+Roll:-167.66, Pitch:  81.32, Yaw:-175.83| 
+Roll:-165.22, Pitch:  81.74, Yaw:-171.69| 
+Roll:-162.57, Pitch:  82.07, Yaw:-167.36| 
+Roll:-159.89, Pitch:  82.37, Yaw:-163.05| 
+Roll:-156.96, Pitch:  82.69, Yaw:-158.49| 
+Roll:-153.61, Pitch:  82.93, Yaw:-153.51| 
+Roll:-150.18, Pitch:  83.03, Yaw:-148.51| 
+Roll:-146.89, Pitch:  83.03, Yaw:-143.70| 
+Roll:-143.69, Pitch:  82.99, Yaw:-138.96| 
+Roll:-140.64, Pitch:  82.95, Yaw:-134.37| 
+Roll:-137.68, Pitch:  82.87, Yaw:-129.94| 
+Roll:-135.05, Pitch:  82.71, Yaw:-125.89| 
+Roll:-132.59, Pitch:  82.55, Yaw:-121.99| 
+Roll:-130.25, Pitch:  82.36, Yaw:-118.18| 
+Roll:-127.76, Pitch:  82.16, Yaw:-114.21| 
+Roll:-125.24, Pitch:  81.96, Yaw:-110.20| 
+Roll:-123.20, Pitch:  81.70, Yaw:-106.73| 
+Roll:-121.79, Pitch:  81.39, Yaw:-103.96| 
+Roll:-120.68, Pitch:  81.06, Yaw:-101.52| 
+Roll:-119.78, Pitch:  80.72, Yaw: -99.27| 
+Roll:-119.13, Pitch:  80.37, Yaw: -97.29| 
+Roll:-118.59, Pitch:  80.06, Yaw: -95.41| 
+Roll:-118.24, Pitch:  79.76, Yaw: -93.71| 
+Roll:-117.74, Pitch:  79.45, Yaw: -91.88| 
+Roll:-117.31, Pitch:  79.15, Yaw: -90.17| 
+Roll:-117.08, Pitch:  78.87, Yaw: -88.74| 
+Roll:-117.18, Pitch:  78.61, Yaw: -87.69| 
+Roll:-117.19, Pitch:  78.36, Yaw: -86.62| 
+Roll:-117.29, Pitch:  78.09, Yaw: -85.71| 
+Roll:-117.48, Pitch:  77.80, Yaw: -84.93| 
+Roll:-117.52, Pitch:  77.53, Yaw: -83.99| 
+Roll:-117.35, Pitch:  77.29, Yaw: -82.83| 
+Roll:-117.25, Pitch:  77.02, Yaw: -81.76| 
+Roll:-117.24, Pitch:  76.74, Yaw: -80.89| 
+Roll:-117.22, Pitch:  76.47, Yaw: -80.10| 
+Roll:-117.26, Pitch:  76.22, Yaw: -79.46| 
+Roll:-117.33, Pitch:  75.99, Yaw: -78.88| 
+Roll:-117.39, Pitch:  75.79, Yaw: -78.31| 
+Roll:-117.37, Pitch:  75.61, Yaw: -77.71| 
+Roll:-117.47, Pitch:  75.42, Yaw: -77.29| 
+Roll:-117.56, Pitch:  75.28, Yaw: -76.92| 
+Roll:-117.42, Pitch:  75.19, Yaw: -76.38| 
+Roll:-117.10, Pitch:  75.09, Yaw: -75.73| 
+Roll:-116.84, Pitch:  75.00, Yaw: -75.26| 
+Roll:-116.65, Pitch:  74.97, Yaw: -74.99| 
+Roll:-116.47, Pitch:  75.03, Yaw: -74.82| 
+Roll:-116.08, Pitch:  75.14, Yaw: -74.54| 
+Roll:-115.59, Pitch:  75.27, Yaw: -74.29| 
+Roll:-115.11, Pitch:  75.39, Yaw: -74.14| 
+Roll:-114.63, Pitch:  75.55, Yaw: -74.07| 
+Roll:-114.14, Pitch:  75.76, Yaw: -74.06| 
+Roll:-113.71, Pitch:  75.98, Yaw: -74.19| 
+Roll:-113.39, Pitch:  76.20, Yaw: -74.51| 
+Roll:-113.15, Pitch:  76.44, Yaw: -74.98| 
+Roll:-113.12, Pitch:  76.69, Yaw: -75.74| 
+Roll:-113.15, Pitch:  76.97, Yaw: -76.64| 
+Roll:-112.99, Pitch:  77.28, Yaw: -77.46| 
+Roll:-113.03, Pitch:  77.61, Yaw: -78.61| 
+Roll:-113.15, Pitch:  77.94, Yaw: -79.91| 
+Roll:-113.58, Pitch:  78.28, Yaw: -81.58| 
+Roll:-114.40, Pitch:  78.64, Yaw: -83.75| 
+Roll:-115.27, Pitch:  79.00, Yaw: -86.02| 
+Roll:-116.24, Pitch:  79.36, Yaw: -88.44| 
+Roll:-117.42, Pitch:  79.73, Yaw: -91.15| 
+Roll:-118.84, Pitch:  80.09, Yaw: -94.09| 
+Roll:-120.36, Pitch:  80.45, Yaw: -97.10| 
+Roll:-121.84, Pitch:  80.78, Yaw:-100.05| 
+Roll:-123.19, Pitch:  81.10, Yaw:-102.84| 
+Roll:-124.94, Pitch:  81.38, Yaw:-106.07| 
+Roll:-126.81, Pitch:  81.66, Yaw:-109.39| 
+Roll:-128.72, Pitch:  81.93, Yaw:-112.70| 
+Roll:-130.50, Pitch:  82.19, Yaw:-115.86| 
+Roll:-132.11, Pitch:  82.42, Yaw:-118.82| 
+Roll:-133.80, Pitch:  82.62, Yaw:-121.83| 
+Roll:-135.70, Pitch:  82.80, Yaw:-125.08| 
+Roll:-137.78, Pitch:  83.00, Yaw:-128.47| 
+Roll:-139.88, Pitch:  83.20, Yaw:-131.87| 
+Roll:-142.29, Pitch:  83.36, Yaw:-135.61| 
+Roll:-144.95, Pitch:  83.46, Yaw:-139.63| 
+Roll:-147.99, Pitch:  83.48, Yaw:-144.07| 
+Roll:-151.32, Pitch:  83.44, Yaw:-148.83| 
+Roll:-154.55, Pitch:  83.37, Yaw:-153.50| 
+Roll:-157.41, Pitch:  83.31, Yaw:-157.80| 
+Roll:-160.01, Pitch:  83.18, Yaw:-161.86| 
+Roll:-162.51, Pitch:  82.96, Yaw:-165.85| 
+Roll:-165.14, Pitch:  82.68, Yaw:-169.97| 
+Roll:-167.57, Pitch:  82.40, Yaw:-173.88| 
+Roll:-169.61, Pitch:  82.16, Yaw:-177.37| 
+Roll:-171.28, Pitch:  81.94, Yaw: 179.54| 
+Roll:-172.63, Pitch:  81.74, Yaw: 176.81| 
+Roll:-173.77, Pitch:  81.52, Yaw: 174.35| 
+Roll:-174.70, Pitch:  81.32, Yaw: 172.15| 
+Roll:-175.56, Pitch:  81.12, Yaw: 170.07| 
+Roll:-176.28, Pitch:  80.94, Yaw: 168.15| 
+Roll:-176.99, Pitch:  80.77, Yaw: 166.23| 
+Roll:-177.73, Pitch:  80.59, Yaw: 164.29| 
+Roll:-178.29, Pitch:  80.42, Yaw: 162.52| 
+Roll:-178.70, Pitch:  80.23, Yaw: 160.89| 
+Roll:-179.00, Pitch:  80.01, Yaw: 159.38| 
+Roll:-179.24, Pitch:  79.82, Yaw: 157.97| 
+Roll:-179.32, Pitch:  79.66, Yaw: 156.75| 
+Roll:-179.28, Pitch:  79.55, Yaw: 155.69| 
+Roll:-179.13, Pitch:  79.46, Yaw: 154.79| 
+Roll:-178.99, Pitch:  79.37, Yaw: 153.94| 
+Roll:-178.89, Pitch:  79.30, Yaw: 153.10| 
+Roll:-178.87, Pitch:  79.24, Yaw: 152.24| 
+Roll:-178.86, Pitch:  79.18, Yaw: 151.40| 
+Roll:-178.87, Pitch:  79.10, Yaw: 150.54| 
+Roll:-178.94, Pitch:  79.01, Yaw: 149.61| 
+Roll:-179.06, Pitch:  78.89, Yaw: 148.64| 
+Roll:-179.25, Pitch:  78.74, Yaw: 147.59| 
+Roll:-179.44, Pitch:  78.58, Yaw: 146.52| 
+Roll:-179.58, Pitch:  78.41, Yaw: 145.52| 
+Roll:-179.71, Pitch:  78.17, Yaw: 144.55| 
+Roll:-179.76, Pitch:  77.91, Yaw: 143.67| 
+Roll:-179.75, Pitch:  77.69, Yaw: 142.91| 
+Roll:-179.74, Pitch:  77.47, Yaw: 142.18| 
+Roll:-179.67, Pitch:  77.22, Yaw: 141.52| 
+Roll:-179.58, Pitch:  76.94, Yaw: 140.94| 
+Roll:-179.45, Pitch:  76.65, Yaw: 140.45| 
+Roll:-179.34, Pitch:  76.38, Yaw: 140.03| 
+Roll:-179.25, Pitch:  76.18, Yaw: 139.73| 
+Roll:-179.22, Pitch:  76.12, Yaw: 139.61| 
+Roll:-179.22, Pitch:  76.17, Yaw: 139.79| 
+Roll:-179.29, Pitch:  76.34, Yaw: 140.17| 
+Roll:-179.44, Pitch:  76.61, Yaw: 140.67| 
+Roll:-179.67, Pitch:  76.97, Yaw: 141.25| 
+Roll:-179.87, Pitch:  77.35, Yaw: 141.95| 
+Roll:-179.87, Pitch:  77.79, Yaw: 142.93| 
+Roll:-179.62, Pitch:  78.27, Yaw: 144.22| 
+Roll:-179.20, Pitch:  78.71, Yaw: 145.69| 
+Roll:-178.82, Pitch:  79.14, Yaw: 147.10| 
+Roll:-178.42, Pitch:  79.60, Yaw: 148.59| 
+Roll:-177.83, Pitch:  80.04, Yaw: 150.29| 
+Roll:-177.09, Pitch:  80.46, Yaw: 152.10| 
+Roll:-176.11, Pitch:  80.93, Yaw: 154.22| 
+Roll:-174.72, Pitch:  81.47, Yaw: 156.89| 
+Roll:-172.89, Pitch:  82.01, Yaw: 160.07| 
+Roll:-170.88, Pitch:  82.52, Yaw: 163.40| 
+Roll:-168.65, Pitch:  83.03, Yaw: 166.97| 
+Roll:-166.00, Pitch:  83.50, Yaw: 171.00| 
+Roll:-162.36, Pitch:  83.96, Yaw: 176.12| 
+Roll:-157.80, Pitch:  84.35, Yaw:-177.79| 
+Roll:-152.77, Pitch:  84.70, Yaw:-171.32| 
+Roll:-147.65, Pitch:  85.02, Yaw:-164.79| 
+Roll:-141.53, Pitch:  85.30, Yaw:-157.20| 
+Roll:-134.51, Pitch:  85.46, Yaw:-148.66| 
+Roll:-127.30, Pitch:  85.51, Yaw:-139.90| 
+Roll:-120.43, Pitch:  85.47, Yaw:-131.46| 
+Roll:-113.25, Pitch:  85.39, Yaw:-122.70| 
+Roll:-106.01, Pitch:  85.21, Yaw:-113.88| 
+Roll: -99.77, Pitch:  84.92, Yaw:-106.09| 
+Roll: -94.95, Pitch:  84.56, Yaw: -99.72| 
+Roll: -91.26, Pitch:  84.12, Yaw: -94.46| 
+Roll: -88.45, Pitch:  83.66, Yaw: -90.12| 
+Roll: -86.05, Pitch:  83.21, Yaw: -86.27| 
+Roll: -84.15, Pitch:  82.80, Yaw: -83.02| 
+Roll: -83.15, Pitch:  82.38, Yaw: -80.68| 
+Roll: -82.73, Pitch:  81.95, Yaw: -78.96| 
+Roll: -82.52, Pitch:  81.49, Yaw: -77.45| 
+Roll: -82.17, Pitch:  81.03, Yaw: -75.81| 
+Roll: -81.54, Pitch:  80.58, Yaw: -73.92| 
+Roll: -80.84, Pitch:  80.11, Yaw: -71.96| 
+Roll: -80.39, Pitch:  79.62, Yaw: -70.25| 
+Roll: -80.27, Pitch:  79.12, Yaw: -68.86| 
+Roll: -80.33, Pitch:  78.63, Yaw: -67.66| 
+Roll: -80.61, Pitch:  78.19, Yaw: -66.69| 
+Roll: -81.02, Pitch:  77.77, Yaw: -65.84| 
+Roll: -81.56, Pitch:  77.37, Yaw: -65.14| 
+Roll: -82.11, Pitch:  77.01, Yaw: -64.49| 
+Roll: -82.41, Pitch:  76.67, Yaw: -63.66| 
+Roll: -82.57, Pitch:  76.34, Yaw: -62.70| 
+Roll: -82.78, Pitch:  76.00, Yaw: -61.81| 
+Roll: -83.15, Pitch:  75.67, Yaw: -61.09| 
+Roll: -83.78, Pitch:  75.33, Yaw: -60.69| 
+Roll: -84.47, Pitch:  74.99, Yaw: -60.42| 
+Roll: -85.19, Pitch:  74.67, Yaw: -60.24| 
+Roll: -85.97, Pitch:  74.39, Yaw: -60.15| 
+Roll: -86.74, Pitch:  74.12, Yaw: -60.10| 
+Roll: -87.53, Pitch:  73.86, Yaw: -60.11| 
+Roll: -88.32, Pitch:  73.60, Yaw: -60.19| 
+Roll: -89.10, Pitch:  73.35, Yaw: -60.30| 
+Roll: -89.68, Pitch:  73.10, Yaw: -60.24| 
+Roll: -90.08, Pitch:  72.85, Yaw: -59.99| 
+Roll: -90.57, Pitch:  72.60, Yaw: -59.87| 
+Roll: -91.19, Pitch:  72.37, Yaw: -59.93| 
+Roll: -91.74, Pitch:  72.15, Yaw: -59.94| 
+Roll: -92.04, Pitch:  71.94, Yaw: -59.70| 
+Roll: -92.20, Pitch:  71.73, Yaw: -59.36| 
+Roll: -92.29, Pitch:  71.55, Yaw: -59.01| 
+Roll: -92.45, Pitch:  71.37, Yaw: -58.75| 
+Roll: -92.58, Pitch:  71.20, Yaw: -58.48| 
+Roll: -92.64, Pitch:  71.04, Yaw: -58.14| 
+Roll: -92.65, Pitch:  70.88, Yaw: -57.77| 
+Roll: -92.61, Pitch:  70.71, Yaw: -57.37| 
+Roll: -92.46, Pitch:  70.54, Yaw: -56.87| 
+Roll: -92.31, Pitch:  70.38, Yaw: -56.41| 
+Roll: -92.19, Pitch:  70.23, Yaw: -55.99| 
+Roll: -92.11, Pitch:  70.10, Yaw: -55.65| 
+Roll: -92.07, Pitch:  70.00, Yaw: -55.45| 
+Roll: -91.97, Pitch:  69.94, Yaw: -55.25| 
+Roll: -91.85, Pitch:  69.93, Yaw: -55.16| 
+Roll: -91.73, Pitch:  69.96, Yaw: -55.14| 
+Roll: -91.67, Pitch:  70.05, Yaw: -55.24| 
+Roll: -91.59, Pitch:  70.16, Yaw: -55.37| 
+Roll: -91.50, Pitch:  70.31, Yaw: -55.53| 
+Roll: -91.39, Pitch:  70.48, Yaw: -55.70| 
+Roll: -91.29, Pitch:  70.68, Yaw: -55.92| 
+Roll: -91.25, Pitch:  70.91, Yaw: -56.23| 
+Roll: -91.22, Pitch:  71.17, Yaw: -56.62| 
+Roll: -91.22, Pitch:  71.46, Yaw: -57.09| 
+Roll: -91.17, Pitch:  71.78, Yaw: -57.57| 
+Roll: -91.09, Pitch:  72.12, Yaw: -58.10| 
+Roll: -90.94, Pitch:  72.50, Yaw: -58.65| 
+Roll: -90.81, Pitch:  72.94, Yaw: -59.37| 
+Roll: -90.74, Pitch:  73.44, Yaw: -60.30| 
+Roll: -90.82, Pitch:  74.01, Yaw: -61.52| 
+Roll: -91.01, Pitch:  74.63, Yaw: -62.98| 
+Roll: -91.33, Pitch:  75.32, Yaw: -64.65| 
+Roll: -91.75, Pitch:  76.03, Yaw: -66.51| 
+Roll: -92.25, Pitch:  76.75, Yaw: -68.52| 
+Roll: -92.64, Pitch:  77.44, Yaw: -70.45| 
+Roll: -92.91, Pitch:  78.10, Yaw: -72.28| 
+Roll: -93.17, Pitch:  78.72, Yaw: -74.12| 
+Roll: -93.40, Pitch:  79.28, Yaw: -75.95| 
+Roll: -93.71, Pitch:  79.79, Yaw: -77.86| 
+Roll: -93.97, Pitch:  80.24, Yaw: -79.72| 
+Roll: -94.31, Pitch:  80.64, Yaw: -81.64| 
+Roll: -94.78, Pitch:  81.02, Yaw: -83.68| 
+Roll: -95.63, Pitch:  81.40, Yaw: -86.10| 
+Roll: -96.51, Pitch:  81.77, Yaw: -88.53| 
+Roll: -97.55, Pitch:  82.14, Yaw: -91.12| 
+Roll: -98.75, Pitch:  82.51, Yaw: -93.88| 
+Roll:-100.21, Pitch:  82.90, Yaw: -96.93| 
+Roll:-102.17, Pitch:  83.27, Yaw:-100.49| 
+Roll:-104.50, Pitch:  83.61, Yaw:-104.41| 
+Roll:-107.44, Pitch:  83.92, Yaw:-108.91| 
+Roll:-110.86, Pitch:  84.22, Yaw:-113.86| 
+Roll:-114.40, Pitch:  84.49, Yaw:-118.91| 
+Roll:-117.87, Pitch:  84.71, Yaw:-123.86| 
+Roll:-121.18, Pitch:  84.90, Yaw:-128.61| 
+Roll:-124.54, Pitch:  85.01, Yaw:-133.36| 
+Roll:-127.89, Pitch:  85.09, Yaw:-138.09| 
+Roll:-130.72, Pitch:  85.14, Yaw:-142.27| 
+Roll:-132.52, Pitch:  85.21, Yaw:-145.35| 
+Roll:-133.95, Pitch:  85.25, Yaw:-148.03| 
+Roll:-135.39, Pitch:  85.24, Yaw:-150.67| 
+Roll:-136.57, Pitch:  85.19, Yaw:-153.03| 
+Roll:-137.81, Pitch:  85.13, Yaw:-155.44| 
+Roll:-138.78, Pitch:  85.10, Yaw:-157.58| 
+Roll:-139.53, Pitch:  85.08, Yaw:-159.49| 
+Roll:-140.38, Pitch:  85.05, Yaw:-161.44| 
+Roll:-141.26, Pitch:  85.01, Yaw:-163.41| 
+Roll:-142.30, Pitch:  84.96, Yaw:-165.51| 
+Roll:-143.35, Pitch:  84.93, Yaw:-167.60| 
+Roll:-144.09, Pitch:  84.89, Yaw:-169.34| 
+Roll:-144.88, Pitch:  84.83, Yaw:-171.11| 
+Roll:-145.73, Pitch:  84.79, Yaw:-172.92| 
+Roll:-146.56, Pitch:  84.78, Yaw:-174.68| 
+Roll:-147.50, Pitch:  84.76, Yaw:-176.53| 
+Roll:-148.45, Pitch:  84.76, Yaw:-178.36| 
+Roll:-149.18, Pitch:  84.80, Yaw:-179.91| 
+Roll:-150.05, Pitch:  84.81, Yaw: 178.44| 
+Roll:-151.25, Pitch:  84.79, Yaw: 176.46| 
+Roll:-152.17, Pitch:  84.83, Yaw: 174.80| 
+Roll:-152.70, Pitch:  84.93, Yaw: 173.59| 
+Roll:-153.25, Pitch:  85.00, Yaw: 172.42| 
+Roll:-153.87, Pitch:  85.07, Yaw: 171.23| 
+Roll:-154.65, Pitch:  85.17, Yaw: 169.90| 
+Roll:-155.45, Pitch:  85.37, Yaw: 168.52| 
+Roll:-156.46, Pitch:  85.61, Yaw: 166.96| 
+Roll:-158.20, Pitch:  85.78, Yaw: 164.69| 
+Roll:-160.64, Pitch:  85.85, Yaw: 161.72| 
+Roll:-162.91, Pitch:  85.87, Yaw: 158.94| 
+Roll:-165.10, Pitch:  85.83, Yaw: 156.21| 
+Roll:-167.21, Pitch:  85.80, Yaw: 153.53| 
+Roll:-169.28, Pitch:  85.74, Yaw: 150.91| 
+Roll:-171.47, Pitch:  85.64, Yaw: 148.21| 
+Roll:-173.77, Pitch:  85.50, Yaw: 145.51| 
+Roll:-175.72, Pitch:  85.40, Yaw: 143.29| 
+Roll:-177.19, Pitch:  85.37, Yaw: 141.71| 
+Roll:-178.16, Pitch:  85.40, Yaw: 140.79| 
+Roll:-178.65, Pitch:  85.48, Yaw: 140.52| 
+Roll:-178.71, Pitch:  85.56, Yaw: 140.82| 
+Roll:-178.57, Pitch:  85.63, Yaw: 141.41| 
+Roll:-178.21, Pitch:  85.75, Yaw: 142.28| 
+Roll:-177.45, Pitch:  85.88, Yaw: 143.56| 
+Roll:-176.06, Pitch:  85.98, Yaw: 145.52| 
+Roll:-174.23, Pitch:  86.05, Yaw: 148.01| 
+Roll:-172.41, Pitch:  86.09, Yaw: 150.53| 
+Roll:-171.01, Pitch:  86.16, Yaw: 152.72| 
+Roll:-169.67, Pitch:  86.29, Yaw: 154.99| 
+Roll:-167.66, Pitch:  86.46, Yaw: 158.10| 
+Roll:-164.38, Pitch:  86.69, Yaw: 162.65| 
+Roll:-159.33, Pitch:  86.95, Yaw: 169.09| 
+Roll:-152.29, Pitch:  87.22, Yaw: 177.61| 
+Roll:-142.32, Pitch:  87.47, Yaw:-170.78| 
+Roll:-128.25, Pitch:  87.63, Yaw:-154.95| 
+Roll:-113.05, Pitch:  87.61, Yaw:-137.97| 
+Roll:-100.71, Pitch:  87.45, Yaw:-123.92| 
+Roll: -91.44, Pitch:  87.19, Yaw:-112.95| 
+Roll: -84.88, Pitch:  86.89, Yaw:-104.64| 
+Roll: -81.00, Pitch:  86.53, Yaw: -99.07| 
+Roll: -78.82, Pitch:  86.17, Yaw: -95.26| 
+Roll: -77.06, Pitch:  85.75, Yaw: -91.84| 
+Roll: -75.57, Pitch:  85.26, Yaw: -88.63| 
+Roll: -74.15, Pitch:  84.75, Yaw: -85.49| 
+Roll: -73.24, Pitch:  84.29, Yaw: -82.98| 
+Roll: -72.54, Pitch:  83.88, Yaw: -80.73| 
+Roll: -72.30, Pitch:  83.47, Yaw: -78.95| 
+Roll: -72.30, Pitch:  83.02, Yaw: -77.43| 
+Roll: -72.70, Pitch:  82.56, Yaw: -76.34| 
+Roll: -73.21, Pitch:  82.12, Yaw: -75.44| 
+Roll: -73.79, Pitch:  81.74, Yaw: -74.71| 
+Roll: -74.46, Pitch:  81.44, Yaw: -74.09| 
+Roll: -75.46, Pitch:  81.16, Yaw: -73.81| 
+Roll: -76.77, Pitch:  80.89, Yaw: -73.84| 
+Roll: -78.02, Pitch:  80.59, Yaw: -73.80| 
+Roll: -78.99, Pitch:  80.25, Yaw: -73.45| 
+Roll: -79.31, Pitch:  79.86, Yaw: -72.41| 
+Roll: -79.60, Pitch:  79.46, Yaw: -71.36| 
+Roll: -80.23, Pitch:  79.07, Yaw: -70.65| 
+Roll: -81.25, Pitch:  78.69, Yaw: -70.34| 
+Roll: -82.20, Pitch:  78.29, Yaw: -69.95| 
+Roll: -82.90, Pitch:  77.87, Yaw: -69.30| 
+Roll: -83.34, Pitch:  77.41, Yaw: -68.36| 
+Roll: -83.91, Pitch:  76.95, Yaw: -67.52| 
+Roll: -84.65, Pitch:  76.51, Yaw: -66.85| 
+Roll: -85.67, Pitch:  76.10, Yaw: -66.49| 
+Roll: -86.75, Pitch:  75.71, Yaw: -66.21| 
+Roll: -87.65, Pitch:  75.34, Yaw: -65.76| 
+Roll: -88.20, Pitch:  74.96, Yaw: -65.00| 
+Roll: -88.59, Pitch:  74.57, Yaw: -64.11| 
+Roll: -89.10, Pitch:  74.14, Yaw: -63.39| 
+Roll: -89.60, Pitch:  73.70, Yaw: -62.67| 
+Roll: -90.05, Pitch:  73.25, Yaw: -61.90| 
+Roll: -90.47, Pitch:  72.78, Yaw: -61.11| 
+Roll: -90.83, Pitch:  72.29, Yaw: -60.27| 
+Roll: -91.02, Pitch:  71.79, Yaw: -59.31| 
+Roll: -91.10, Pitch:  71.29, Yaw: -58.30| 
+Roll: -91.10, Pitch:  70.83, Yaw: -57.26| 
+Roll: -91.14, Pitch:  70.40, Yaw: -56.32| 
+Roll: -91.32, Pitch:  70.02, Yaw: -55.63| 
+Roll: -91.66, Pitch:  69.69, Yaw: -55.22| 
+Roll: -91.63, Pitch:  69.38, Yaw: -54.51| 
+Roll: -90.97, Pitch:  69.09, Yaw: -53.20| 
+Roll: -90.48, Pitch:  68.85, Yaw: -52.14| 
+Roll: -90.61, Pitch:  68.66, Yaw: -51.82| 
+Roll: -91.06, Pitch:  68.52, Yaw: -51.96| 
+Roll: -91.54, Pitch:  68.39, Yaw: -52.22| 
+Roll: -91.79, Pitch:  68.28, Yaw: -52.37| 
+Roll: -91.75, Pitch:  68.20, Yaw: -52.29| 
+Roll: -91.63, Pitch:  68.15, Yaw: -52.28| 
+Roll: -91.46, Pitch:  68.14, Yaw: -52.35| 
+Roll: -91.30, Pitch:  68.18, Yaw: -52.53| 
+Roll: -91.15, Pitch:  68.30, Yaw: -52.83| 
+Roll: -90.99, Pitch:  68.50, Yaw: -53.20| 
+Roll: -90.75, Pitch:  68.75, Yaw: -53.58| 
+Roll: -90.46, Pitch:  69.05, Yaw: -54.00| 
+Roll: -90.13, Pitch:  69.39, Yaw: -54.43| 
+Roll: -89.80, Pitch:  69.77, Yaw: -54.96| 
+Roll: -89.44, Pitch:  70.19, Yaw: -55.51| 
+Roll: -89.13, Pitch:  70.64, Yaw: -56.19| 
+Roll: -88.73, Pitch:  71.12, Yaw: -56.82| 
+Roll: -88.29, Pitch:  71.63, Yaw: -57.51| 
+Roll: -87.93, Pitch:  72.17, Yaw: -58.37| 
+Roll: -87.48, Pitch:  72.74, Yaw: -59.29| 
+Roll: -86.85, Pitch:  73.36, Yaw: -60.19| 
+Roll: -86.16, Pitch:  74.05, Yaw: -61.16| 
+Roll: -85.70, Pitch:  74.81, Yaw: -62.47| 
+Roll: -85.61, Pitch:  75.64, Yaw: -64.30| 
+Roll: -85.74, Pitch:  76.53, Yaw: -66.48| 
+Roll: -86.06, Pitch:  77.46, Yaw: -68.95| 
+Roll: -86.52, Pitch:  78.39, Yaw: -71.63| 
+Roll: -87.02, Pitch:  79.29, Yaw: -74.39| 
+Roll: -87.67, Pitch:  80.13, Yaw: -77.28| 
+Roll: -88.51, Pitch:  80.92, Yaw: -80.31| 
+Roll: -89.66, Pitch:  81.66, Yaw: -83.58| 
+Roll: -90.99, Pitch:  82.34, Yaw: -86.98| 
+Roll: -92.25, Pitch:  82.95, Yaw: -90.21| 
+Roll: -93.29, Pitch:  83.51, Yaw: -93.13| 
+Roll: -94.32, Pitch:  84.01, Yaw: -95.95| 
+Roll: -95.87, Pitch:  84.46, Yaw: -99.26| 
+Roll: -98.39, Pitch:  84.86, Yaw:-103.52| 
+Roll:-101.38, Pitch:  85.20, Yaw:-108.24| 
+Roll:-104.65, Pitch:  85.49, Yaw:-113.21| 
+Roll:-108.15, Pitch:  85.73, Yaw:-118.37| 
+Roll:-112.16, Pitch:  85.89, Yaw:-124.01| 
+Roll:-117.03, Pitch:  86.00, Yaw:-130.51| 
+Roll:-122.23, Pitch:  86.05, Yaw:-137.30| 
+Roll:-127.65, Pitch:  86.03, Yaw:-144.28| 
+Roll:-132.85, Pitch:  85.95, Yaw:-151.02| 
+Roll:-137.54, Pitch:  85.84, Yaw:-157.30| 
+Roll:-141.43, Pitch:  85.70, Yaw:-162.74| 
+Roll:-145.08, Pitch:  85.48, Yaw:-167.87| 
+Roll:-149.20, Pitch:  85.19, Yaw:-173.45| 
+Roll:-153.00, Pitch:  84.90, Yaw:-178.73| 
+Roll:-156.07, Pitch:  84.61, Yaw: 176.75| 
+Roll:-158.76, Pitch:  84.27, Yaw: 172.60| 
+Roll:-161.50, Pitch:  83.81, Yaw: 168.39| 
+Roll:-164.07, Pitch:  83.28, Yaw: 164.36| 
+Roll:-166.10, Pitch:  82.81, Yaw: 160.97| 
+Roll:-167.48, Pitch:  82.49, Yaw: 158.43| 
+Roll:-168.50, Pitch:  82.27, Yaw: 156.44| 
+Roll:-169.41, Pitch:  82.14, Yaw: 154.74| 
+Roll:-170.43, Pitch:  82.01, Yaw: 153.17| 
+Roll:-171.53, Pitch:  81.95, Yaw: 151.75| 
+Roll:-172.35, Pitch:  81.99, Yaw: 150.76| 
+Roll:-172.88, Pitch:  82.14, Yaw: 150.25| 
+Roll:-173.25, Pitch:  82.33, Yaw: 150.06| 
+Roll:-173.73, Pitch:  82.49, Yaw: 149.89| 
+Roll:-174.20, Pitch:  82.64, Yaw: 149.85| 
+Roll:-174.54, Pitch:  82.90, Yaw: 150.06| 
+Roll:-174.72, Pitch:  83.14, Yaw: 150.56| 
+Roll:-174.88, Pitch:  83.29, Yaw: 151.14| 
+Roll:-174.88, Pitch:  83.51, Yaw: 151.95| 
+Roll:-174.76, Pitch:  83.77, Yaw: 153.01| 
+Roll:-174.34, Pitch:  84.08, Yaw: 154.53| 
+Roll:-173.51, Pitch:  84.38, Yaw: 156.65| 
+Roll:-172.07, Pitch:  84.72, Yaw: 159.54| 
+Roll:-169.99, Pitch:  85.11, Yaw: 163.19| 
+Roll:-167.19, Pitch:  85.50, Yaw: 167.54| 
+Roll:-163.53, Pitch:  85.90, Yaw: 172.72| 
+Roll:-158.31, Pitch:  86.29, Yaw: 179.59| 
+Roll:-150.99, Pitch:  86.59, Yaw:-171.30| 
+Roll:-142.29, Pitch:  86.76, Yaw:-160.73| 
+Roll:-132.11, Pitch:  86.82, Yaw:-148.61| 
+Roll:-120.72, Pitch:  86.77, Yaw:-135.27| 
+Roll:-110.93, Pitch:  86.51, Yaw:-123.47| 
+Roll:-103.08, Pitch:  86.07, Yaw:-113.54| 
+Roll: -95.92, Pitch:  85.52, Yaw:-104.24| 
+Roll: -89.64, Pitch:  84.88, Yaw: -95.86| 
+Roll: -85.53, Pitch:  84.22, Yaw: -89.77| 
+Roll: -82.50, Pitch:  83.54, Yaw: -84.79| 
+Roll: -80.34, Pitch:  82.78, Yaw: -80.69| 
+Roll: -79.07, Pitch:  81.96, Yaw: -77.47| 
+Roll: -78.14, Pitch:  81.14, Yaw: -74.66| 
+Roll: -76.79, Pitch:  80.31, Yaw: -71.55| 
+Roll: -75.35, Pitch:  79.48, Yaw: -68.42| 
+Roll: -74.45, Pitch:  78.63, Yaw: -65.87| 
+Roll: -73.82, Pitch:  77.75, Yaw: -63.64| 
+Roll: -73.20, Pitch:  76.86, Yaw: -61.54| 
+Roll: -72.15, Pitch:  76.04, Yaw: -59.10| 
+Roll: -70.71, Pitch:  75.25, Yaw: -56.30| 
+Roll: -70.10, Pitch:  74.57, Yaw: -54.50| 
+Roll: -70.42, Pitch:  74.00, Yaw: -53.72| 
+Roll: -70.76, Pitch:  73.42, Yaw: -53.01| 
+Roll: -70.77, Pitch:  72.89, Yaw: -52.02| 
+Roll: -70.62, Pitch:  72.39, Yaw: -50.90| 
+Roll: -70.48, Pitch:  71.88, Yaw: -49.88| 
+Roll: -70.28, Pitch:  71.41, Yaw: -48.93| 
+Roll: -70.15, Pitch:  71.03, Yaw: -48.09| 
+Roll: -70.02, Pitch:  70.79, Yaw: -47.31| 
+Roll: -69.83, Pitch:  70.69, Yaw: -46.60| 
+Roll: -69.52, Pitch:  70.72, Yaw: -45.89| 
+Roll: -68.94, Pitch:  70.84, Yaw: -44.99| 
+Roll: -68.19, Pitch:  71.12, Yaw: -43.96| 
+Roll: -67.09, Pitch:  71.48, Yaw: -42.54| 
+Roll: -65.36, Pitch:  71.88, Yaw: -40.46| 
+Roll: -63.46, Pitch:  72.32, Yaw: -38.30| 
+Roll: -61.16, Pitch:  72.77, Yaw: -35.82| 
+Roll: -58.36, Pitch:  73.21, Yaw: -32.89| 
+Roll: -55.36, Pitch:  73.62, Yaw: -29.69| 
+Roll: -52.09, Pitch:  74.05, Yaw: -26.24| 
+Roll: -49.04, Pitch:  74.49, Yaw: -23.05| 
+Roll: -46.00, Pitch:  74.97, Yaw: -19.85| 
+Roll: -42.78, Pitch:  75.43, Yaw: -16.57| 
+Roll: -39.75, Pitch:  75.93, Yaw: -13.59| 
+Roll: -36.75, Pitch:  76.51, Yaw: -10.71| 
+Roll: -33.49, Pitch:  77.20, Yaw:  -7.64| 
+Roll: -29.87, Pitch:  77.96, Yaw:  -4.32| 
+Roll: -26.06, Pitch:  78.71, Yaw:  -0.95| 
+Roll: -21.96, Pitch:  79.49, Yaw:   2.68| 
+Roll: -17.31, Pitch:  80.21, Yaw:   6.87| 
+Roll: -11.95, Pitch:  80.82, Yaw:  11.86| 
+Roll:  -5.42, Pitch:  81.40, Yaw:  18.04| 
+Roll:   1.89, Pitch:  81.93, Yaw:  25.01| 
+Roll:   9.37, Pitch:  82.14, Yaw:  32.23| 
+Roll:  16.40, Pitch:  82.12, Yaw:  38.97| 
+Roll:  23.39, Pitch:  82.01, Yaw:  45.58| 
+Roll:  30.39, Pitch:  81.80, Yaw:  52.17| 
+Roll:  36.29, Pitch:  81.42, Yaw:  57.73| 
+Roll:  41.21, Pitch:  80.91, Yaw:  62.39| 
+Roll:  45.95, Pitch:  80.33, Yaw:  66.89| 
+Roll:  50.37, Pitch:  80.01, Yaw:  70.96| 
+Roll:  54.20, Pitch:  79.26, Yaw:  74.60| 
+Roll:  57.71, Pitch:  78.23, Yaw:  77.87| 
+Roll:  60.56, Pitch:  77.32, Yaw:  80.39| 
+Roll:  63.13, Pitch:  76.52, Yaw:  82.55| 
+Roll:  65.34, Pitch:  75.87, Yaw:  84.40| 
+Roll:  67.04, Pitch:  75.34, Yaw:  85.84| 
+Roll:  67.88, Pitch:  74.88, Yaw:  86.54| 
+Roll:  68.15, Pitch:  74.47, Yaw:  86.74| 
+Roll:  68.61, Pitch:  74.00, Yaw:  87.20| 
+Roll:  69.22, Pitch:  73.58, Yaw:  87.85| 
+Roll:  69.75, Pitch:  73.35, Yaw:  88.36| 
+Roll:  70.22, Pitch:  73.25, Yaw:  88.69| 
+Roll:  70.81, Pitch:  73.20, Yaw:  89.18| 
+Roll:  71.55, Pitch:  73.17, Yaw:  89.82| 
+Roll:  72.38, Pitch:  73.00, Yaw:  90.58| 
+Roll:  73.10, Pitch:  72.80, Yaw:  91.27| 
+Roll:  73.62, Pitch:  72.58, Yaw:  91.82| 
+Roll:  73.80, Pitch:  72.43, Yaw:  92.04| 
+Roll:  73.51, Pitch:  72.52, Yaw:  91.80| 
+Roll:  72.46, Pitch:  72.84, Yaw:  90.83| 
+Roll:  70.95, Pitch:  73.36, Yaw:  89.42| 
+Roll:  69.17, Pitch:  74.00, Yaw:  87.77| 
+Roll:  67.19, Pitch:  74.75, Yaw:  85.99| 
+Roll:  64.75, Pitch:  75.62, Yaw:  83.85| 
+Roll:  61.86, Pitch:  76.60, Yaw:  81.35| 
+Roll:  58.29, Pitch:  77.66, Yaw:  78.21| 
+Roll:  53.74, Pitch:  78.73, Yaw:  74.07| 
+Roll:  47.16, Pitch:  79.68, Yaw:  67.83| 
+Roll:  38.47, Pitch:  80.36, Yaw:  59.48| 
+Roll:  28.28, Pitch:  80.81, Yaw:  49.68| 
+Roll:  17.75, Pitch:  81.06, Yaw:  39.57| 
+Roll:   7.09, Pitch:  80.98, Yaw:  29.32| 
+Roll:  -3.41, Pitch:  80.47, Yaw:  19.26| 
+Roll: -12.22, Pitch:  79.54, Yaw:  10.98| 
+Roll: -19.60, Pitch:  78.34, Yaw:   4.21| 
+Roll: -25.58, Pitch:  77.08, Yaw:  -1.06| 
+Roll: -30.25, Pitch:  75.59, Yaw:  -5.13| 
+Roll: -33.83, Pitch:  73.90, Yaw:  -8.10| 
+Roll: -36.67, Pitch:  72.04, Yaw: -10.13| 
+Roll: -39.29, Pitch:  70.00, Yaw: -11.85| 
+Roll: -41.85, Pitch:  67.84, Yaw: -13.61| 
+Roll: -43.86, Pitch:  65.89, Yaw: -14.88| 
+Roll: -45.27, Pitch:  64.10, Yaw: -15.47| 
+Roll: -46.38, Pitch:  62.24, Yaw: -15.54| 
+Roll: -47.00, Pitch:  60.13, Yaw: -15.13| 
+Roll: -47.24, Pitch:  57.95, Yaw: -14.40| 
+Roll: -47.51, Pitch:  55.82, Yaw: -13.66| 
+Roll: -47.82, Pitch:  53.76, Yaw: -12.89| 
+Roll: -48.35, Pitch:  51.84, Yaw: -12.31| 
+Roll: -48.94, Pitch:  50.19, Yaw: -11.67| 
+Roll: -49.36, Pitch:  48.44, Yaw: -10.79| 
+Roll: -49.61, Pitch:  46.47, Yaw:  -9.93| 
+Roll: -49.84, Pitch:  44.51, Yaw:  -9.00| 
+Roll: -50.26, Pitch:  42.59, Yaw:  -8.24| 
+Roll: -50.73, Pitch:  40.65, Yaw:  -7.54| 
+Roll: -51.17, Pitch:  38.73, Yaw:  -6.82| 
+Roll: -51.66, Pitch:  36.98, Yaw:  -6.21| 
+Roll: -52.18, Pitch:  35.43, Yaw:  -5.73| 
+Roll: -52.77, Pitch:  34.09, Yaw:  -5.41| 
+Roll: -53.39, Pitch:  32.94, Yaw:  -5.15| 
+Roll: -54.02, Pitch:  31.87, Yaw:  -4.93| 
+Roll: -54.65, Pitch:  30.87, Yaw:  -4.71| 
+Roll: -55.23, Pitch:  29.94, Yaw:  -4.52| 
+Roll: -55.76, Pitch:  29.09, Yaw:  -4.31| 
+Roll: -56.28, Pitch:  28.29, Yaw:  -4.01| 
+Roll: -56.82, Pitch:  27.56, Yaw:  -3.67| 
+Roll: -57.43, Pitch:  26.87, Yaw:  -3.44| 
+Roll: -58.07, Pitch:  26.22, Yaw:  -3.33| 
+Roll: -58.77, Pitch:  25.63, Yaw:  -3.40| 
+Roll: -59.52, Pitch:  25.18, Yaw:  -3.63| 
+Roll: -60.22, Pitch:  24.82, Yaw:  -3.96| 
+Roll: -60.86, Pitch:  24.47, Yaw:  -4.26| 
+Roll: -61.48, Pitch:  24.11, Yaw:  -4.60| 
+Roll: -62.01, Pitch:  23.78, Yaw:  -4.96| 
+Roll: -62.44, Pitch:  23.56, Yaw:  -5.33| 
+Roll: -62.78, Pitch:  23.44, Yaw:  -5.74| 
+Roll: -63.00, Pitch:  23.43, Yaw:  -6.04| 
+Roll: -63.15, Pitch:  23.51, Yaw:  -6.28| 
+Roll: -63.32, Pitch:  23.60, Yaw:  -6.55| 
+Roll: -63.51, Pitch:  23.66, Yaw:  -6.72| 
+Roll: -63.69, Pitch:  23.79, Yaw:  -6.78| 
+Roll: -63.85, Pitch:  23.96, Yaw:  -6.86| 
+Roll: -64.02, Pitch:  24.18, Yaw:  -6.99| 
+Roll: -64.19, Pitch:  24.39, Yaw:  -7.11| 
+Roll: -64.27, Pitch:  24.53, Yaw:  -7.18| 
+Roll: -64.24, Pitch:  24.53, Yaw:  -7.14| 
+Roll: -64.18, Pitch:  24.54, Yaw:  -7.11| 
+Roll: -64.14, Pitch:  24.65, Yaw:  -7.20| 
+Roll: -64.10, Pitch:  24.74, Yaw:  -7.33| 
+Roll: -64.01, Pitch:  24.79, Yaw:  -7.47| 
+Roll: -63.88, Pitch:  24.87, Yaw:  -7.59| 
+Roll: -63.71, Pitch:  24.93, Yaw:  -7.66| 
+Roll: -63.53, Pitch:  24.97, Yaw:  -7.69| 
+Roll: -63.36, Pitch:  24.98, Yaw:  -7.77| 
+Roll: -63.21, Pitch:  24.99, Yaw:  -7.89| 
+Roll: -63.10, Pitch:  25.02, Yaw:  -7.99| 
+Roll: -63.01, Pitch:  24.99, Yaw:  -8.04| 
+Roll: -62.90, Pitch:  24.93, Yaw:  -8.00| 
+Roll: -62.80, Pitch:  24.88, Yaw:  -8.00| 
+Roll: -62.72, Pitch:  24.84, Yaw:  -8.03| 
+Roll: -62.67, Pitch:  24.79, Yaw:  -8.07| 
+Roll: -62.61, Pitch:  24.75, Yaw:  -8.13| 
+Roll: -62.58, Pitch:  24.74, Yaw:  -8.23| 
+Roll: -62.55, Pitch:  24.72, Yaw:  -8.30| 
+Roll: -62.51, Pitch:  24.70, Yaw:  -8.39| 
+Roll: -62.47, Pitch:  24.74, Yaw:  -8.51| 
+Roll: -62.44, Pitch:  24.78, Yaw:  -8.60| 
+Roll: -62.40, Pitch:  24.83, Yaw:  -8.66| 
+Roll: -62.38, Pitch:  24.88, Yaw:  -8.74| 
+Roll: -62.38, Pitch:  24.92, Yaw:  -8.79| 
+Roll: -62.38, Pitch:  24.95, Yaw:  -8.81| 
+Roll: -62.41, Pitch:  25.02, Yaw:  -8.84| 
+Roll: -62.46, Pitch:  25.07, Yaw:  -8.86| 
+Roll: -62.52, Pitch:  25.10, Yaw:  -8.87| 
+Roll: -62.55, Pitch:  25.09, Yaw:  -8.86| 
+Roll: -62.57, Pitch:  25.11, Yaw:  -8.87| 
+Roll: -62.57, Pitch:  25.15, Yaw:  -8.90| 
+Roll: -62.57, Pitch:  25.18, Yaw:  -8.92| 
+Roll: -62.53, Pitch:  25.14, Yaw:  -8.90| 
+Roll: -62.46, Pitch:  25.11, Yaw:  -8.90| 
+Roll: -62.40, Pitch:  25.13, Yaw:  -8.98| 
+Roll: -62.34, Pitch:  25.18, Yaw:  -9.05| 
+Roll: -62.26, Pitch:  25.23, Yaw:  -9.11| 
+Roll: -62.18, Pitch:  25.26, Yaw:  -9.15| 
+Roll: -62.09, Pitch:  25.29, Yaw:  -9.18| 
+Roll: -62.00, Pitch:  25.34, Yaw:  -9.23| 
+Roll: -61.91, Pitch:  25.41, Yaw:  -9.28| 
+Roll: -61.82, Pitch:  25.50, Yaw:  -9.33| 
+Roll: -61.71, Pitch:  25.56, Yaw:  -9.36| 
+Roll: -61.61, Pitch:  25.62, Yaw:  -9.37| 
+Roll: -61.51, Pitch:  25.69, Yaw:  -9.42| 
+Roll: -61.44, Pitch:  25.81, Yaw:  -9.50| 
+Roll: -61.39, Pitch:  25.91, Yaw:  -9.56| 
+Roll: -61.32, Pitch:  25.96, Yaw:  -9.59| 
+Roll: -61.26, Pitch:  26.02, Yaw:  -9.64| 
+Roll: -61.23, Pitch:  26.08, Yaw:  -9.71| 
+Roll: -61.21, Pitch:  26.14, Yaw:  -9.77| 
+Roll: -61.17, Pitch:  26.19, Yaw:  -9.83| 
+Roll: -61.14, Pitch:  26.25, Yaw:  -9.91| 
+Roll: -61.10, Pitch:  26.28, Yaw:  -9.96| 
+Roll: -61.04, Pitch:  26.27, Yaw:  -9.99| 
+Roll: -60.99, Pitch:  26.26, Yaw: -10.02| 
+Roll: -60.96, Pitch:  26.30, Yaw: -10.10| 
+Roll: -60.93, Pitch:  26.35, Yaw: -10.16| 
+Roll: -60.89, Pitch:  26.36, Yaw: -10.17| 
+Roll: -60.81, Pitch:  26.37, Yaw: -10.17| 
+Roll: -60.73, Pitch:  26.41, Yaw: -10.20| 
+Roll: -60.65, Pitch:  26.51, Yaw: -10.28| 
+Roll: -60.56, Pitch:  26.64, Yaw: -10.35| 
+Roll: -60.43, Pitch:  26.77, Yaw: -10.40| 
+Roll: -60.27, Pitch:  26.91, Yaw: -10.46| 
+Roll: -60.06, Pitch:  27.08, Yaw: -10.54| 
+Roll: -59.82, Pitch:  27.33, Yaw: -10.66| 
+Roll: -59.54, Pitch:  27.63, Yaw: -10.78| 
+Roll: -59.19, Pitch:  27.95, Yaw: -10.91| 
+Roll: -58.75, Pitch:  28.36, Yaw: -11.13| 
+Roll: -58.22, Pitch:  28.90, Yaw: -11.38| 
+Roll: -57.63, Pitch:  29.53, Yaw: -11.65| 
+Roll: -57.02, Pitch:  30.20, Yaw: -11.87| 
+Roll: -56.41, Pitch:  30.90, Yaw: -12.09| 
+Roll: -55.75, Pitch:  31.60, Yaw: -12.30| 
+Roll: -55.03, Pitch:  32.33, Yaw: -12.45| 
+Roll: -54.30, Pitch:  33.07, Yaw: -12.50| 
+Roll: -53.54, Pitch:  33.77, Yaw: -12.54| 
+Roll: -52.81, Pitch:  34.49, Yaw: -12.62| 
+Roll: -52.01, Pitch:  35.22, Yaw: -12.66| 
+Roll: -51.03, Pitch:  36.03, Yaw: -12.66| 
+Roll: -49.87, Pitch:  36.95, Yaw: -12.66| 
+Roll: -48.63, Pitch:  38.01, Yaw: -12.66| 
+Roll: -47.37, Pitch:  39.15, Yaw: -12.64| 
+Roll: -46.05, Pitch:  40.39, Yaw: -12.59| 
+Roll: -44.65, Pitch:  41.71, Yaw: -12.47| 
+Roll: -43.13, Pitch:  43.04, Yaw: -12.19| 
+Roll: -41.52, Pitch:  44.32, Yaw: -11.76| 
+Roll: -39.92, Pitch:  45.54, Yaw: -11.23| 
+Roll: -38.22, Pitch:  46.66, Yaw: -10.56| 
+Roll: -36.46, Pitch:  47.69, Yaw:  -9.77| 
+Roll: -34.69, Pitch:  48.67, Yaw:  -8.93| 
+Roll: -32.87, Pitch:  49.64, Yaw:  -8.00| 
+Roll: -31.06, Pitch:  50.63, Yaw:  -7.04| 
+Roll: -29.21, Pitch:  51.61, Yaw:  -5.99| 
+Roll: -27.26, Pitch:  52.52, Yaw:  -4.84| 
+Roll: -25.23, Pitch:  53.47, Yaw:  -3.59| 
+Roll: -23.09, Pitch:  54.46, Yaw:  -2.24| 
+Roll: -20.79, Pitch:  55.40, Yaw:  -0.72| 
+Roll: -18.36, Pitch:  56.30, Yaw:   0.91| 
+Roll: -15.82, Pitch:  57.12, Yaw:   2.64| 
+Roll: -13.27, Pitch:  57.90, Yaw:   4.41| 
+Roll: -10.69, Pitch:  58.66, Yaw:   6.27| 
+Roll:  -8.01, Pitch:  59.31, Yaw:   8.23| 
+Roll:  -5.24, Pitch:  59.90, Yaw:  10.27| 
+Roll:  -2.44, Pitch:  60.41, Yaw:  12.37| 
+Roll:   0.40, Pitch:  60.81, Yaw:  14.53| 
+Roll:   3.24, Pitch:  61.09, Yaw:  16.70| 
+Roll:   6.02, Pitch:  61.33, Yaw:  18.84| 
+Roll:   8.86, Pitch:  61.57, Yaw:  21.01| 
+Roll:  11.67, Pitch:  61.71, Yaw:  23.21| 
+Roll:  14.43, Pitch:  61.74, Yaw:  25.36| 
+Roll:  17.13, Pitch:  61.75, Yaw:  27.45| 
+Roll:  19.75, Pitch:  61.73, Yaw:  29.53| 
+Roll:  22.39, Pitch:  61.69, Yaw:  31.62| 
+Roll:  25.06, Pitch:  61.61, Yaw:  33.73| 
+Roll:  27.65, Pitch:  61.47, Yaw:  35.74| 
+Roll:  30.20, Pitch:  61.31, Yaw:  37.71| 
+Roll:  32.73, Pitch:  61.14, Yaw:  39.68| 
+Roll:  35.24, Pitch:  60.96, Yaw:  41.64| 
+Roll:  37.57, Pitch:  60.71, Yaw:  43.41| 
+Roll:  39.73, Pitch:  60.42, Yaw:  45.04| 
+Roll:  41.83, Pitch:  60.12, Yaw:  46.61| 
+Roll:  43.86, Pitch:  59.81, Yaw:  48.09| 
+Roll:  45.73, Pitch:  59.51, Yaw:  49.43| 
+Roll:  47.42, Pitch:  59.20, Yaw:  50.60| 
+Roll:  49.00, Pitch:  58.87, Yaw:  51.66| 
+Roll:  50.44, Pitch:  58.51, Yaw:  52.62| 
+Roll:  51.65, Pitch:  58.16, Yaw:  53.38| 
+Roll:  52.59, Pitch:  57.87, Yaw:  53.95| 
+Roll:  53.25, Pitch:  57.68, Yaw:  54.35| 
+Roll:  53.46, Pitch:  57.56, Yaw:  54.43| 
+Roll:  53.20, Pitch:  57.49, Yaw:  54.15| 
+Roll:  52.47, Pitch:  57.49, Yaw:  53.50| 
+Roll:  51.31, Pitch:  57.59, Yaw:  52.56| 
+Roll:  49.84, Pitch:  57.76, Yaw:  51.47| 
+Roll:  48.05, Pitch:  57.98, Yaw:  50.22| 
+Roll:  45.95, Pitch:  58.21, Yaw:  48.78| 
+Roll:  43.67, Pitch:  58.42, Yaw:  47.21| 
+Roll:  41.32, Pitch:  58.61, Yaw:  45.64| 
+Roll:  38.85, Pitch:  58.76, Yaw:  43.98| 
+Roll:  36.30, Pitch:  58.88, Yaw:  42.23| 
+Roll:  33.69, Pitch:  58.94, Yaw:  40.37| 
+Roll:  30.98, Pitch:  58.98, Yaw:  38.41| 
+Roll:  28.22, Pitch:  59.03, Yaw:  36.37| 
+Roll:  25.37, Pitch:  59.06, Yaw:  34.23| 
+Roll:  22.37, Pitch:  59.02, Yaw:  31.96| 
+Roll:  19.23, Pitch:  58.92, Yaw:  29.57| 
+Roll:  15.95, Pitch:  58.79, Yaw:  27.06| 
+Roll:  12.61, Pitch:  58.54, Yaw:  24.48| 
+Roll:   9.28, Pitch:  58.16, Yaw:  21.95| 
+Roll:   5.89, Pitch:  57.62, Yaw:  19.42| 
+Roll:   2.45, Pitch:  57.02, Yaw:  16.92| 
+Roll:  -0.91, Pitch:  56.46, Yaw:  14.48| 
+Roll:  -4.09, Pitch:  55.91, Yaw:  12.20| 
+Roll:  -7.17, Pitch:  55.24, Yaw:  10.09| 
+Roll: -10.13, Pitch:  54.44, Yaw:   8.11| 
+Roll: -12.96, Pitch:  53.62, Yaw:   6.28| 
+Roll: -15.63, Pitch:  52.84, Yaw:   4.58| 
+Roll: -18.14, Pitch:  52.07, Yaw:   2.96| 
+Roll: -20.47, Pitch:  51.28, Yaw:   1.51| 
+Roll: -22.62, Pitch:  50.51, Yaw:   0.18| 
+Roll: -24.54, Pitch:  49.74, Yaw:  -1.07| 
+Roll: -26.39, Pitch:  49.02, Yaw:  -2.32| 
+Roll: -28.21, Pitch:  48.33, Yaw:  -3.55| 
+Roll: -29.92, Pitch:  47.71, Yaw:  -4.70| 
+Roll: -31.49, Pitch:  47.06, Yaw:  -5.69| 
+Roll: -32.78, Pitch:  46.32, Yaw:  -6.52| 
+Roll: -34.00, Pitch:  45.59, Yaw:  -7.30| 
+Roll: -35.24, Pitch:  44.92, Yaw:  -8.12| 
+Roll: -36.48, Pitch:  44.34, Yaw:  -8.91| 
+Roll: -37.66, Pitch:  43.72, Yaw:  -9.56| 
+Roll: -38.72, Pitch:  43.06, Yaw: -10.07| 
+Roll: -39.60, Pitch:  42.37, Yaw: -10.51| 
+Roll: -40.49, Pitch:  41.68, Yaw: -10.94| 
+Roll: -41.38, Pitch:  40.95, Yaw: -11.34| 
+Roll: -42.24, Pitch:  40.25, Yaw: -11.74| 
+Roll: -43.02, Pitch:  39.56, Yaw: -12.12| 
+Roll: -43.68, Pitch:  38.86, Yaw: -12.45| 
+Roll: -44.28, Pitch:  38.17, Yaw: -12.77| 
+Roll: -44.87, Pitch:  37.55, Yaw: -13.12| 
+Roll: -45.43, Pitch:  36.96, Yaw: -13.52| 
+Roll: -45.96, Pitch:  36.39, Yaw: -13.92| 
+Roll: -46.45, Pitch:  35.81, Yaw: -14.30| 
+Roll: -46.95, Pitch:  35.21, Yaw: -14.63| 
+Roll: -47.44, Pitch:  34.61, Yaw: -14.92| 
+Roll: -47.93, Pitch:  33.99, Yaw: -15.18| 
+Roll: -48.40, Pitch:  33.38, Yaw: -15.40| 
+Roll: -48.89, Pitch:  32.79, Yaw: -15.61| 
+Roll: -49.36, Pitch:  32.20, Yaw: -15.79| 
+Roll: -49.85, Pitch:  31.65, Yaw: -15.96| 
+Roll: -50.32, Pitch:  31.13, Yaw: -16.12| 
+Roll: -50.78, Pitch:  30.59, Yaw: -16.26| 
+Roll: -51.19, Pitch:  30.05, Yaw: -16.38| 
+Roll: -51.51, Pitch:  29.53, Yaw: -16.49| 
+Roll: -51.77, Pitch:  29.00, Yaw: -16.56| 
+Roll: -51.97, Pitch:  28.50, Yaw: -16.60| 
+Roll: -52.15, Pitch:  28.10, Yaw: -16.68| 
+Roll: -52.36, Pitch:  27.75, Yaw: -16.74| 
+Roll: -52.54, Pitch:  27.43, Yaw: -16.74| 
+Roll: -52.73, Pitch:  27.21, Yaw: -16.73| 
+Roll: -52.96, Pitch:  27.06, Yaw: -16.71| 
+Roll: -53.17, Pitch:  26.88, Yaw: -16.61| 
+Roll: -53.37, Pitch:  26.68, Yaw: -16.46| 
+Roll: -53.54, Pitch:  26.53, Yaw: -16.32| 
+Roll: -53.68, Pitch:  26.43, Yaw: -16.17| 
+Roll: -53.78, Pitch:  26.36, Yaw: -16.04| 
+Roll: -53.82, Pitch:  26.30, Yaw: -15.92| 
+Roll: -53.80, Pitch:  26.29, Yaw: -15.84| 
+Roll: -53.72, Pitch:  26.38, Yaw: -15.78| 
+Roll: -53.55, Pitch:  26.56, Yaw: -15.73| 
+Roll: -53.31, Pitch:  26.81, Yaw: -15.67| 
+Roll: -53.00, Pitch:  27.13, Yaw: -15.60| 
+Roll: -52.55, Pitch:  27.52, Yaw: -15.51| 
+Roll: -52.01, Pitch:  28.03, Yaw: -15.41| 
+Roll: -51.37, Pitch:  28.73, Yaw: -15.36| 
+Roll: -50.56, Pitch:  29.60, Yaw: -15.35| 
+Roll: -49.59, Pitch:  30.63, Yaw: -15.32| 
+Roll: -48.47, Pitch:  31.82, Yaw: -15.22| 
+Roll: -47.26, Pitch:  33.26, Yaw: -15.10| 
+Roll: -45.99, Pitch:  34.85, Yaw: -14.93| 
+Roll: -44.61, Pitch:  36.52, Yaw: -14.63| 
+Roll: -43.07, Pitch:  38.22, Yaw: -14.18| 
+Roll: -41.45, Pitch:  39.91, Yaw: -13.56| 
+Roll: -39.75, Pitch:  41.50, Yaw: -12.74| 
+Roll: -38.00, Pitch:  43.04, Yaw: -11.79| 
+Roll: -36.20, Pitch:  44.58, Yaw: -10.76| 
+Roll: -34.29, Pitch:  46.12, Yaw:  -9.61| 
+Roll: -32.28, Pitch:  47.58, Yaw:  -8.30| 
+Roll: -30.14, Pitch:  48.91, Yaw:  -6.83| 
+Roll: -27.93, Pitch:  50.17, Yaw:  -5.25| 
+Roll: -25.71, Pitch:  51.37, Yaw:  -3.56| 
+Roll: -23.40, Pitch:  52.49, Yaw:  -1.76| 
+Roll: -21.03, Pitch:  53.56, Yaw:   0.09| 
+Roll: -18.62, Pitch:  54.59, Yaw:   2.00| 
+Roll: -16.12, Pitch:  55.57, Yaw:   4.02| 
+Roll: -13.49, Pitch:  56.48, Yaw:   6.17| 
+Roll: -10.73, Pitch:  57.31, Yaw:   8.42| 
+Roll:  -7.92, Pitch:  58.08, Yaw:  10.74| 
+Roll:  -5.03, Pitch:  58.78, Yaw:  13.16| 
+Roll:  -2.02, Pitch:  59.39, Yaw:  15.66| 
+Roll:   1.02, Pitch:  59.90, Yaw:  18.17| 
+Roll:   4.06, Pitch:  60.35, Yaw:  20.71| 
+Roll:   7.11, Pitch:  60.70, Yaw:  23.23| 
+Roll:  10.17, Pitch:  60.97, Yaw:  25.76| 
+Roll:  13.18, Pitch:  61.21, Yaw:  28.30| 
+Roll:  16.11, Pitch:  61.34, Yaw:  30.81| 
+Roll:  18.89, Pitch:  61.33, Yaw:  33.19| 
+Roll:  21.53, Pitch:  61.22, Yaw:  35.40| 
+Roll:  24.04, Pitch:  61.07, Yaw:  37.50| 
+Roll:  26.43, Pitch:  60.90, Yaw:  39.50| 
+Roll:  28.64, Pitch:  60.66, Yaw:  41.39| 
+Roll:  30.70, Pitch:  60.37, Yaw:  43.14| 
+Roll:  32.67, Pitch:  60.06, Yaw:  44.80| 
+Roll:  34.57, Pitch:  59.76, Yaw:  46.41| 
+Roll:  36.32, Pitch:  59.45, Yaw:  47.93| 
+Roll:  37.94, Pitch:  59.11, Yaw:  49.32| 
+Roll:  39.49, Pitch:  58.76, Yaw:  50.62| 
+Roll:  40.91, Pitch:  58.43, Yaw:  51.79| 
+Roll:  42.17, Pitch:  58.16, Yaw:  52.85| 
+Roll:  43.28, Pitch:  57.94, Yaw:  53.79| 
+Roll:  44.15, Pitch:  57.77, Yaw:  54.58| 
+Roll:  44.70, Pitch:  57.68, Yaw:  55.15| 
+Roll:  44.92, Pitch:  57.68, Yaw:  55.48| 
+Roll:  44.80, Pitch:  57.77, Yaw:  55.52| 
+Roll:  44.32, Pitch:  57.92, Yaw:  55.26| 
+Roll:  43.46, Pitch:  58.14, Yaw:  54.68| 
+Roll:  42.24, Pitch:  58.45, Yaw:  53.80| 
+Roll:  40.69, Pitch:  58.81, Yaw:  52.61| 
+Roll:  38.92, Pitch:  59.23, Yaw:  51.22| 
+Roll:  36.94, Pitch:  59.64, Yaw:  49.67| 
+Roll:  34.69, Pitch:  60.05, Yaw:  47.95| 
+Roll:  32.19, Pitch:  60.46, Yaw:  46.05| 
+Roll:  29.49, Pitch:  60.83, Yaw:  43.90| 
+Roll:  26.65, Pitch:  61.19, Yaw:  41.65| 
+Roll:  23.65, Pitch:  61.54, Yaw:  39.29| 
+Roll:  20.50, Pitch:  61.90, Yaw:  36.84| 
+Roll:  17.14, Pitch:  62.16, Yaw:  34.11| 
+Roll:  13.49, Pitch:  62.36, Yaw:  31.21| 
+Roll:   9.56, Pitch:  62.43, Yaw:  28.09| 
+Roll:   5.52, Pitch:  62.31, Yaw:  24.88| 
+Roll:   1.56, Pitch:  62.02, Yaw:  21.74| 
+Roll:  -2.11, Pitch:  61.62, Yaw:  18.79| 
+Roll:  -5.45, Pitch:  61.36, Yaw:  16.10| 
+Roll:  -8.71, Pitch:  61.03, Yaw:  13.55| 
+Roll: -12.02, Pitch:  60.62, Yaw:  11.00| 
+Roll: -15.21, Pitch:  60.10, Yaw:   8.47| 
+Roll: -18.24, Pitch:  59.52, Yaw:   6.03| 
+Roll: -21.20, Pitch:  58.84, Yaw:   3.68| 
+Roll: -24.06, Pitch:  58.08, Yaw:   1.39| 
+Roll: -26.76, Pitch:  57.28, Yaw:  -0.75| 
+Roll: -29.23, Pitch:  56.47, Yaw:  -2.60| 
+Roll: -31.53, Pitch:  55.58, Yaw:  -4.19| 
+Roll: -33.74, Pitch:  54.67, Yaw:  -5.64| 
+Roll: -35.85, Pitch:  53.75, Yaw:  -6.94| 
+Roll: -37.78, Pitch:  52.78, Yaw:  -8.02| 
+Roll: -39.53, Pitch:  51.83, Yaw:  -8.94| 
+Roll: -41.16, Pitch:  50.94, Yaw:  -9.76| 
+Roll: -42.68, Pitch:  50.08, Yaw: -10.49| 
+Roll: -44.03, Pitch:  49.16, Yaw: -11.10| 
+Roll: -45.29, Pitch:  48.24, Yaw: -11.66| 
+Roll: -46.44, Pitch:  47.34, Yaw: -12.19| 
+Roll: -47.48, Pitch:  46.45, Yaw: -12.68| 
+Roll: -48.43, Pitch:  45.61, Yaw: -13.13| 
+Roll: -49.29, Pitch:  44.83, Yaw: -13.55| 
+Roll: -50.06, Pitch:  44.09, Yaw: -13.92| 
+Roll: -50.80, Pitch:  43.38, Yaw: -14.30| 
+Roll: -51.52, Pitch:  42.67, Yaw: -14.70| 
+Roll: -52.22, Pitch:  41.91, Yaw: -15.05| 
+Roll: -52.84, Pitch:  41.13, Yaw: -15.32| 
+Roll: -53.37, Pitch:  40.35, Yaw: -15.51| 
+Roll: -53.84, Pitch:  39.60, Yaw: -15.65| 
+Roll: -54.28, Pitch:  38.89, Yaw: -15.76| 
+Roll: -54.71, Pitch:  38.27, Yaw: -15.91| 
+Roll: -55.10, Pitch:  37.74, Yaw: -16.06| 
+Roll: -55.43, Pitch:  37.26, Yaw: -16.17| 
+Roll: -55.73, Pitch:  36.82, Yaw: -16.26| 
+Roll: -55.97, Pitch:  36.41, Yaw: -16.31| 
+Roll: -56.18, Pitch:  36.02, Yaw: -16.30| 
+Roll: -56.39, Pitch:  35.69, Yaw: -16.28| 
+Roll: -56.61, Pitch:  35.38, Yaw: -16.24| 
+Roll: -56.83, Pitch:  35.03, Yaw: -16.14| 
+Roll: -56.99, Pitch:  34.62, Yaw: -15.97| 
+Roll: -57.11, Pitch:  34.15, Yaw: -15.79| 
+Roll: -57.24, Pitch:  33.66, Yaw: -15.61| 
+Roll: -57.35, Pitch:  33.22, Yaw: -15.34| 
+Roll: -57.37, Pitch:  32.77, Yaw: -14.78| 
+Roll: -57.40, Pitch:  32.45, Yaw: -14.13| 
+Roll: -57.53, Pitch:  32.39, Yaw: -13.69| 
+Roll: -57.75, Pitch:  32.50, Yaw: -13.47| 
+Roll: -57.99, Pitch:  32.70, Yaw: -13.39| 
+Roll: -58.16, Pitch:  32.90, Yaw: -13.36| 
+Roll: -58.24, Pitch:  33.12, Yaw: -13.38| 
+Roll: -58.20, Pitch:  33.31, Yaw: -13.38| 
+Roll: -58.06, Pitch:  33.53, Yaw: -13.39| 
+Roll: -57.82, Pitch:  33.81, Yaw: -13.44| 
+Roll: -57.47, Pitch:  34.13, Yaw: -13.49| 
+Roll: -57.09, Pitch:  34.51, Yaw: -13.51| 
+Roll: -56.73, Pitch:  34.94, Yaw: -13.53| 
+Roll: -56.37, Pitch:  35.44, Yaw: -13.55| 
+Roll: -55.97, Pitch:  36.03, Yaw: -13.59| 
+Roll: -55.50, Pitch:  36.77, Yaw: -13.71| 
+Roll: -54.94, Pitch:  37.69, Yaw: -13.90| 
+Roll: -54.22, Pitch:  38.74, Yaw: -14.07| 
+Roll: -53.38, Pitch:  39.94, Yaw: -14.21| 
+Roll: -52.49, Pitch:  41.25, Yaw: -14.29| 
+Roll: -51.64, Pitch:  42.56, Yaw: -14.30| 
+Roll: -50.73, Pitch:  43.81, Yaw: -14.25| 
+Roll: -49.85, Pitch:  45.05, Yaw: -14.17| 
+Roll: -48.94, Pitch:  46.20, Yaw: -13.98| 
+Roll: -48.00, Pitch:  47.31, Yaw: -13.70| 
+Roll: -47.07, Pitch:  48.34, Yaw: -13.31| 
+Roll: -46.26, Pitch:  49.31, Yaw: -12.87| 
+Roll: -45.50, Pitch:  50.18, Yaw: -12.36| 
+Roll: -44.72, Pitch:  50.97, Yaw: -11.73| 
+Roll: -43.89, Pitch:  51.63, Yaw: -10.96| 
+Roll: -43.00, Pitch:  52.22, Yaw: -10.13| 
+Roll: -42.08, Pitch:  52.87, Yaw:  -9.32| 
+Roll: -41.16, Pitch:  53.59, Yaw:  -8.49| 
+Roll: -40.13, Pitch:  54.34, Yaw:  -7.55| 
+Roll: -38.95, Pitch:  55.14, Yaw:  -6.51| 
+Roll: -37.54, Pitch:  56.02, Yaw:  -5.30| 
+Roll: -35.97, Pitch:  56.96, Yaw:  -3.96| 
+Roll: -34.26, Pitch:  57.96, Yaw:  -2.51| 
+Roll: -32.37, Pitch:  58.95, Yaw:  -0.90| 
+Roll: -30.33, Pitch:  59.86, Yaw:   0.93| 
+Roll: -28.22, Pitch:  60.69, Yaw:   2.89| 
+Roll: -26.12, Pitch:  61.51, Yaw:   4.86| 
+Roll: -23.94, Pitch:  62.29, Yaw:   6.89| 
+Roll: -21.59, Pitch:  62.96, Yaw:   9.10| 
+Roll: -19.15, Pitch:  63.55, Yaw:  11.41| 
+Roll: -16.71, Pitch:  64.06, Yaw:  13.76| 
+Roll: -14.27, Pitch:  64.47, Yaw:  16.16| 
+Roll: -11.84, Pitch:  64.82, Yaw:  18.55| 
+Roll:  -9.31, Pitch:  65.13, Yaw:  20.97| 
+Roll:  -6.71, Pitch:  65.47, Yaw:  23.48| 
+Roll:  -4.06, Pitch:  65.74, Yaw:  26.04| 
+Roll:  -1.37, Pitch:  65.93, Yaw:  28.60| 
+Roll:   1.37, Pitch:  66.10, Yaw:  31.23| 
+Roll:   4.15, Pitch:  66.25, Yaw:  33.89| 
+Roll:   7.01, Pitch:  66.34, Yaw:  36.58| 
+Roll:   9.79, Pitch:  66.40, Yaw:  39.17| 
+Roll:  12.39, Pitch:  66.41, Yaw:  41.59| 
+Roll:  14.80, Pitch:  66.35, Yaw:  43.79| 
+Roll:  16.96, Pitch:  66.27, Yaw:  45.78| 
+Roll:  18.85, Pitch:  66.19, Yaw:  47.55| 
+Roll:  20.40, Pitch:  66.08, Yaw:  49.03| 
+Roll:  21.64, Pitch:  66.00, Yaw:  50.24| 
+Roll:  22.55, Pitch:  65.93, Yaw:  51.16| 
+Roll:  23.10, Pitch:  65.91, Yaw:  51.73| 
+Roll:  23.31, Pitch:  65.93, Yaw:  52.01| 
+Roll:  23.27, Pitch:  66.01, Yaw:  52.03| 
+Roll:  22.94, Pitch:  66.10, Yaw:  51.78| 
