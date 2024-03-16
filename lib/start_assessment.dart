@@ -3,6 +3,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:frontend/home_page.dart';
 import 'package:http/http.dart' as http;
+import 'dart:convert';
 
 class StartAssessment extends StatefulWidget {
   const StartAssessment({super.key});
@@ -15,23 +16,39 @@ class _StartAssessmentState extends State<StartAssessment> {
   final TextEditingController filename = TextEditingController();
 
   Future<void> startRecording() async {
-    final uri = Uri.parse('http://localhost:8080/startrecording');
-    await http.get(uri);
+    final uri = Uri.parse('http://localhost:8080/');
+    await http.post(
+      uri,
+      headers: {'Content-Type': 'application/json'},
+      body: jsonEncode({'command': 'start'}),
+    );
   }
 
   Future<void> stopRecording() async {
-    final uri = Uri.parse('http://localhost:8080/stoprecording');
-    await http.get(uri);
+    final uri = Uri.parse('http://localhost:8080/');
+    await http.post(
+      uri,
+      headers: {'Content-Type': 'application/json'},
+      body: jsonEncode({'command': 'stop'}),
+    );
   }
 
-  Future<void> disposeRecording() async{
-    final uri = Uri.parse('http://localhost:8080/disposerecording');
-    await http.get(uri);
+  Future<void> disposeRecording() async {
+    final uri = Uri.parse('http://localhost:8080/');
+    await http.post(
+      uri,
+      headers: {'Content-Type': 'application/json'},
+      body: jsonEncode({'command': 'discard'}),
+    );
   }
 
-  Future<void> saveRecording() async{
-    final uri = Uri.parse('http://localhost:8080/saverecording');
-    await http.get(uri);
+  Future<void> saveRecording() async {
+    final uri = Uri.parse('http://localhost:8080/');
+    await http.post(
+      uri,
+      headers: {'Content-Type': 'application/json'},
+      body: jsonEncode({'command': 'save'}),
+    );
   }
 
   final List<FlSpot> data = [
@@ -40,10 +57,6 @@ class _StartAssessmentState extends State<StartAssessment> {
     const FlSpot(2, 10),
     // Add as many points as you need
   ];
-
-
-
-
 
   Future<void> _dialogBuilder(BuildContext context) {
     return showDialog<void>(
@@ -59,7 +72,7 @@ class _StartAssessmentState extends State<StartAssessment> {
               ),
               child: const Text('Cancel'),
               onPressed: () {
-                // disposeRecording();
+                disposeRecording();
                 Navigator.of(context).pop();
               },
             ),
@@ -69,7 +82,7 @@ class _StartAssessmentState extends State<StartAssessment> {
               ),
               child: const Text('Save'),
               onPressed: () {
-                // saveRecording();
+                saveRecording();
                 Navigator.push(context, MaterialPageRoute(builder: (context) => const HomePage()));
               },
             ),
@@ -78,7 +91,6 @@ class _StartAssessmentState extends State<StartAssessment> {
       },
     );
   }
-
 
   @override
   Widget build(BuildContext context) {
@@ -108,13 +120,13 @@ class _StartAssessmentState extends State<StartAssessment> {
                           IconButton(onPressed: (){if (kDebugMode) {
                             print("start recording");
                           }
-                          // startRecording();
+                          startRecording();
 
                           }, icon: const Icon(Icons.play_arrow_sharp, color: Colors.white,)),
                           IconButton(onPressed: (){if (kDebugMode) {
                             print("stop recording");
                           }
-                          // stopRecording();
+                          stopRecording();
                           _dialogBuilder(context);
                             }, icon: const Icon(Icons.pause, color: Colors.white,)),
 

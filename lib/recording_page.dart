@@ -1,6 +1,9 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
+import 'package:frontend/main.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+
 
 class RecordingPage extends StatefulWidget {
   const RecordingPage({super.key});
@@ -14,6 +17,18 @@ class _RecordingPageState extends State<RecordingPage> {
     final SharedPreferences prefs = await SharedPreferences.getInstance();
     final String? directoryPath = prefs.getString('selectedDirectoryPath');
     final List<File> files = [];
+    void runfiles() async {
+
+    try{
+      Directory current = Directory.current;
+      print(current.path);
+    }
+    catch (e) {
+      print("Path Error");
+      print(e);
+    }
+
+}
 
     if (directoryPath != null) {
       final Directory directory = Directory(directoryPath);
@@ -68,6 +83,7 @@ class _RecordingPageState extends State<RecordingPage> {
                                 side: BorderSide(color: Colors.grey.shade300), // Border
                               ),
                               onTap: () {
+                                
                               },
                             ),
                           ),

@@ -2,6 +2,8 @@ import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
+import 'dart:convert';
+
 
 class SettingsPage extends StatefulWidget {
   const SettingsPage({super.key});
@@ -36,8 +38,17 @@ class _SettingsPageState extends State<SettingsPage> {
     if (selectedDirectory != null) {
       final SharedPreferences prefs = await SharedPreferences.getInstance();
       await prefs.setString('selectedDirectoryPath', selectedDirectory);
-      // final uri = Uri.parse('http://localhost:8080/$selectedDirectory');
-      // await http.post(uri);
+      final uri = Uri.parse('http://localhost:8080/');
+      var response = await http.post(
+        uri,
+        headers: {'Content-Type': 'application/json'},
+        body: jsonEncode({'directory': selectedDirectory}),);
+        if (response.body == "OK") {
+          print("hey");
+        } else {
+          print("hello");
+        }
+        
       setState(() {
         directory.text = selectedDirectory;
       });

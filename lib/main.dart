@@ -1,10 +1,53 @@
 import 'package:flutter/material.dart';
 import 'package:frontend/home_page.dart';
 import 'package:google_fonts/google_fonts.dart';
-
+import 'dart:io';
+import 'package:path/path.dart' as p;
+import 'dart:convert';
 void main() {
   runApp(const MyApp());
+  runfiles();
 }
+
+void runfiles() async {
+  try {
+    Directory current = Directory.current;
+    var scriptPath = p.join(current.path, 'backend/data_export_new.py');
+    var unityPath = p.join(current.path, 'unity_project/My project.exe');
+    Process process = await Process.start('python3', [scriptPath]);
+    Process unityProcess = await Process.start('"$unityPath"', []);
+
+    // Listen to the output from the Python script and print each line
+    process.stdout.transform(utf8.decoder).transform(const LineSplitter()).listen((line) {
+      print('Python stdout: $line');
+    });
+
+    // Listen to the error output from the Python script and print each line
+    process.stderr.transform(utf8.decoder).transform(const LineSplitter()).listen((line) {
+      print('Python stderr: $line');
+    });
+
+    // Listen to the output from the Unity process and print each line
+    unityProcess.stdout.transform(utf8.decoder).transform(const LineSplitter()).listen((line) {
+      print('Unity stdout: $line');
+    });
+
+    // Listen to the error output from the Unity process and print each line
+    unityProcess.stderr.transform(utf8.decoder).transform(const LineSplitter()).listen((line) {
+      print('Unity stderr: $line');
+    });
+
+    // Wait for the script to finish running
+    int pythonExitCode = await process.exitCode;
+    int unityExitCode = await unityProcess.exitCode;
+    print('Python process exited with code $pythonExitCode');
+    print('Unity process exited with code $unityExitCode');
+  } catch (e) {
+    print("Path Error");
+    print(e);
+  }
+}
+
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

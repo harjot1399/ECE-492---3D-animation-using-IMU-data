@@ -46,6 +46,7 @@ dependencies:
   screen_recorder: ^0.2.0
   http: ^1.2.1
   fl_chart: ^0.66.2
+  path: ^1.9.0
     
 
 dev_dependencies:
